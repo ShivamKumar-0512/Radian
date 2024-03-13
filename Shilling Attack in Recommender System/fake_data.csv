@@ -1,0 +1,720 @@
+ID,Title,Genres,Director,Actors,Duration,Rating
+5000,A Fistful of Dollars ,Action|Drama|Western,Sergio Leone,"Gian Maria Volontè,Clint Eastwood,Aldo Sambrell",99,8.5
+5001,A Good Day to Die Hard ,Action|Thriller,John Moore,"Cole Hauser,Bruce Willis,Megalyn Echikunwoke",101,10
+5002,A Hard Day's Night ,Comedy|Musical,Richard Lester,"Ringo Starr,Paul McCartney,George Harrison",87,8.5
+5003,A Nightmare on Elm Street ,Horror,Wes Craven,"Lin Shaye,Johnny Depp,Amanda Wyss",101,9.5
+5004,A Serious Man ,Comedy|Drama,Ethan Coen,"Fred Melamed,Michael Stuhlbarg,Peter Breitmayer",106,1.5
+5005,A Turtle's Tale: Sammy's Adventures ,Adventure|Animation|Family,Ben Stassen,"Jenny McCarthy,Ed Begley Jr.,Stacy Keach",88,8.5
+5006,A Very Harold & Kumar 3D Christmas ,Adventure|Comedy,Todd Strauss-Schulson,"Thomas Lennon,Patton Oswalt,Paula Garcés",90,8.5
+5007,A Walk Among the Tombstones ,Crime|Drama|Mystery|Thriller,Scott Frank,"Boyd Holbrook,Liam Neeson,David Harbour",114,9.5
+5008,Agora ,Adventure|Drama|History|Romance,Alejandro Amenábar,"Ashraf Barhom,Max Minghella,Rupert Evans",141,10
+5009,Akira ,Action|Animation|Sci-Fi,Katsuhiro Ôtomo,"Takeshi Kusao,Mitsuo Iwata,Tesshô Genda",124,1
+5010,Alien Zone ,Horror,Sharron Miller,"Elizabeth MacRae,Bernard Fox,Charles Aidman",79,8.5
+5011,All Good Things ,Crime|Drama|Mystery|Romance|Thriller,Andrew Jarecki,"Kirsten Dunst,Ryan Gosling,Frank Langella",101,10
+5012,All the King's Men ,Drama|Thriller,Steven Zaillian,"Anthony Hopkins,Kate Winslet,Kevin Dunn",128,9.5
+5013,American Graffiti ,Comedy|Drama|Music,George Lucas,"Ron Howard,Harrison Ford,Mackenzie Phillips",112,9.5
+5014,Amidst the Devil's Wings ,Action|Crime|Drama,Daniel Columbie,"Nicholas Simmons,Keri Maletto,Barbie Castro",90,9.5
+5015,Among Giants ,Comedy|Romance,Sam Miller,"Alan Williams,Rachel Griffiths,Rob Jarvis",93,10
+5016,An American Carol ,Comedy|Fantasy,David Zucker,"Geoffrey Arend,Chriss Anglin,Gary Coleman",83,0.5
+5017,Appaloosa ,Crime|Drama|Western,Ed Harris,"James Gammon,Viggo Mortensen,Tom Bower",115,8.5
+5018,Aroused ,Documentary,Deborah Anderson,"Jesse Jane,Lisa Ann,Kayden Kross",66,10
+5019,Arthur and the Invisibles ,Adventure|Animation|Family|Fantasy,Luc Besson,"Adam LeFevre,Mia Farrow,Penny Balfour",94,0.5
+5020,August ,Drama|Romance,Eldar Rapaport,"Adrian Gonzalez,Murray Bartlett,Edward Conna",99,10
+5021,August Rush ,Drama|Music,Kirsten Sheridan,"Aaron Staton,Robin Williams,Marian Seldes",114,2
+5022,Autumn in New York ,Drama|Romance,Joan Chen,"Sam Trammell,J.K. Simmons,Elaine Stritch",103,1.5
+5023,Baggage Claim ,Comedy,David E. Talbert,"Christina Milian,Djimon Hounsou,Boris Kodjoe",96,9
+5024,Barbecue ,Comedy,Eric Lavaine,"Julie Engelbrecht,Lambert Wilson,Lionel Abelanski",98,9
+5025,Barry Lyndon ,Adventure|Drama|History|War,Stanley Kubrick,"Steven Berkoff,Ryan O'Neal,Hardy Krüger",184,9
+5026,Bats ,Horror|Sci-Fi|Thriller,Louis Morneau,"Bob Gunton,Leon,Ned Bellamy",91,1.5
+5027,Before Sunset ,Drama|Romance,Richard Linklater,"Albert Delpy,Vernon Dobtcheff,Marie Pillet",80,10
+5028,Beverly Hills Chihuahua ,Adventure|Comedy|Drama|Family|Romance,Raja Gosnell,"Nick Zano,Jamie Lee Curtis,Ali Hillis",91,8.5
+5029,Big Momma's House ,Action|Comedy|Crime,Raja Gosnell,"Cedric the Entertainer,Nia Long,Tichina Arnold",99,8.5
+5030,Black Snake Moan ,Drama|Music,Craig Brewer,"Michael Raymond-James,Justin Timberlake,S. Epatha Merkerson",116,8.5
+5031,Blue Car ,Drama,Karen Moncrieff,"Agnes Bruckner,Frances Fisher,A.J. Buckley",88,9.5
+5032,Boat Trip ,Comedy,Mort Nathan,"Lin Shaye,Vivica A. Fox,Bob Gunton",97,1
+5033,Body Double ,Mystery|Thriller,Brian De Palma,"Dennis Franz,Melanie Griffith,Gregg Henry",114,9
+5034,Bon Cop Bad Cop ,Action|Comedy|Crime|Thriller,Erik Canuel,"Richard Howland,Colm Feore,Sarain Boylan",116,9.5
+5035,Brigham City ,Crime|Drama|Mystery,Richard Dutcher,"Frank Gerrish,Wilford Brimley,Rick Macy",119,8.5
+5036,Brotherly Love ,Drama,Jamal Hill,"Adam Ratcliffe,Logan Browning,Faizon Love",89,8.5
+5037,Brown Sugar ,Comedy|Drama|Music|Romance,Rick Famuyiwa,"Sanaa Lathan,Boris Kodjoe,Wendell Pierce",109,0.5
+5038,Bubba Ho-Tep ,Comedy|Fantasy|Mystery,Don Coscarelli,"Ossie Davis,Daniel Roebuck,Ella Joyce",92,9
+5039,Buffalo '66 ,Comedy|Crime|Drama|Romance,Vincent Gallo,"Vincent Gallo,Anjelica Huston,Jan-Michael Vincent",110,1
+5040,Bullets Over Broadway ,Comedy|Crime,Woody Allen,"Chazz Palminteri,Jim Broadbent,Dianne Wiest",98,2
+5041,Carriers ,Drama|Horror|Sci-Fi|Thriller,David Pastor,"Kiernan Shipka,Christopher Meloni,Lou Taylor Pucci",84,10
+5042,Cheaper by the Dozen 2 ,Adventure|Comedy|Family,Adam Shankman,"Tom Welling,Taylor Lautner,Alyson Stoner",94,2
+5043,Chocolat ,Drama|Romance,Lasse Hallström,"Leslie Caron,Lena Olin,Hugh O'Conor",121,10
+5044,Cinderella ,Drama|Family|Fantasy|Romance,Kenneth Branagh,"Derek Jacobi,Hayley Atwell,Lily James",105,10
+5045,Cirque du Freak: The Vampire's Assistant ,Action|Adventure|Fantasy|Thriller,Paul Weitz,"Salma Hayek,Josh Hutcherson,Patrick Fugit",109,10
+5046,City of God ,Crime|Drama,Fernando Meirelles,"Seu Jorge,Alice Braga,Alexandre Rodrigues",135,2
+5047,CJ7 ,Comedy|Family|Sci-Fi,Stephen Chow,"Yuqi Zhang,Jiao Xu,Chi Chung Lam",86,2
+5048,Clash of the Titans ,Action|Adventure|Fantasy,Louis Leterrier,"Jason Flemyng,Liam Neeson,Alexa Davalos",106,2
+5049,Coach Carter ,Drama|Sport,Thomas Carter,"Rick Gonzalez,Channing Tatum,Robert Ri'chard",136,8.5
+5050,Code Name: The Cleaner ,Action|Comedy|Crime,Les Mayfield,"Will Patton,Callum Rennie,Cedric the Entertainer",91,2
+5051,Containment ,Horror|Sci-Fi|Thriller,Neil Mcenery-West,"Michael Chapman,Walter Hendrix III,Louise Brealey",77,9.5
+5052,Cop Land ,Crime|Drama|Thriller,James Mangold,"Sylvester Stallone,Robert De Niro,Janeane Garofalo",120,9.5
+5053,Cries & Whispers ,Drama,Ingmar Bergman,"Ingrid Thulin,Liv Ullmann,Erland Josephson",91,0.5
+5054,Crying with Laughter ,Thriller,Justin Molotnikov,"Stephen McCole,Jo Hartley,Joe Cassidy",93,2
+5055,Daddy Day Care ,Comedy|Family,Steve Carr,"Lisa Edelstein,Anjelica Huston,Jeff Garlin",92,8.5
+5056,Daddy's Home ,Comedy|Family,Sean Anders,"Linda Cardellini,Will Ferrell,Mark L. Young",96,10
+5057,Dawn of the Crescent Moon ,Drama|Sci-Fi|Thriller,Kirk Loudon,"Johnny Walter,Barry Corbin,Shiree Nelson",95,9
+5058,Dead Like Me: Life After Death ,Comedy|Drama|Fantasy,Stephen Herek,"Callum Blue,Henry Ian Cusick,Shenae Grimes-Beech",87,9
+5059,Deck the Halls ,Comedy|Family,John Whitesell,"Jorge Garcia,Matthew Broderick,Alia Shawkat",93,1
+5060,Despicable Me ,Animation|Comedy|Family,Pierre Coffin,"Miranda Cosgrove,Steve Carell,Jack McBrayer",87,1
+5061,Deterrence ,Drama|Thriller,Rod Lurie,"Kathryn Morris,Kevin Pollak,Timothy Hutton",104,1
+5062,Diamond Ruff ,Action,Alec Asten,"Dennis L.A. White,Luis Sanchez,Fredro Starr",82,9
+5063,Django Unchained ,Drama|Western,Quentin Tarantino,"Christoph Waltz,Leonardo DiCaprio,Ato Essandoh",165,10
+5064,DOA: Dead or Alive ,Action|Adventure,Corey Yuen,"Holly Valance,Steve Howey,Sarah Carter",87,0.5
+5065,Domino ,Action|Biography|Crime|Drama|Thriller,Tony Scott,"Mo'Nique,Ian Ziering,Edgar Ramírez",127,0.5
+5066,Dracula: Pages from a Virgin's Diary ,Comedy|Horror|Musical,Guy Maddin,"CindyMarie Small,Sarah Murphy-Dyson,Brent Neale",73,1
+5067,Drag Me to Hell ,Horror|Thriller,Sam Raimi,"Alison Lohman,Bojana Novakovic,Reggie Lee",99,9
+5068,Dragon Wars: D-War ,Action|Drama|Fantasy|Horror|Thriller,Hyung-rae Shim,"Aimee Garcia,Robert Forster,Chris Mulkey",107,9.5
+5069,Dylan Dog: Dead of Night ,Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller,Kevin Munroe,"Laura Spencer,Marco St. John,Anita Briem",107,9
+5070,DysFunktional Family ,Comedy|Documentary,George Gallo,"Joe Howard,Eddie Griffin,Robert Noble",89,9.5
+5071,Ed Wood ,Biography|Comedy|Drama,Tim Burton,"Bill Murray,Johnny Depp,Martin Landau",127,9.5
+5072,Eddie: The Sleepwalking Cannibal ,Comedy|Horror,Boris Rodriguez,"Thure Lindhardt,Stephen McHattie,Georgina Reilly",83,2
+5073,Elling ,Comedy|Drama,Petter Næss,"Per Christian Ellefsen,Jørgen Langhelle,Sven Nordin",89,2
+5074,End of the Spear ,Adventure|Drama,Jim Hanon,"Chad Allen,Chase Ellison,Jack Guzman",108,8.5
+5075,End of Watch ,Crime|Drama|Thriller,David Ayer,"Anna Kendrick,Jake Gyllenhaal,America Ferrera",109,0.5
+5076,Enter the Void ,Drama|Fantasy,Gaspar Noé,"Emily Alyn Lind,Paz de la Huerta,Olly Alexander",161,10
+5077,Erin Brockovich ,Biography|Drama,Steven Soderbergh,"Albert Finney,Julia Roberts,Conchata Ferrell",131,9.5
+5078,Escape from Tomorrow ,Fantasy|Horror,Randy Moore,"Lee Armstrong,Trey Loney,Amy Lucas",90,8.5
+5079,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask ,Comedy,Woody Allen,"John Carradine,Woody Allen,Lynn Redgrave",88,9
+5080,Evil Dead II ,Comedy|Fantasy|Horror|Thriller,Sam Raimi,"Dan Hicks,Ted Raimi,Kassie Wesley DePaiva",37,2
+5081,Extreme Ops ,Action|Adventure|Thriller,Christian Duguay,"Bridgette Wilson-Sampras,Rufus Sewell,Rupert Graves",93,9
+5082,Face/Off ,Action|Crime|Sci-Fi|Thriller,John Woo,"CCH Pounder,Nicolas Cage,Joan Allen",138,2
+5083,Factory Girl ,Biography|Drama,George Hickenlooper,"Jimmy Fallon,Hayden Christensen,Beth Grant",99,9
+5084,Failure to Launch ,Comedy|Romance,Tom Dey,"Matthew McConaughey,Bradley Cooper,Zooey Deschanel",95,9.5
+5085,Falcon Rising ,Action|Adventure,Ernie Barbarash,"Michael J. Morris,Michael Jai White,Lateef Crowder",103,9
+5086,Fast Five ,Action|Crime|Thriller,Justin Lin,"Vin Diesel,Paul Walker,Dwayne Johnson",132,9
+5087,Fighting Tommy Riley ,Drama|Sport,Eddie O'Flaherty,"Eddie Jones,Don Wallace,Christina Chambers",109,1.5
+5088,Finding Neverland ,Biography|Drama|Family,Marc Forster,"Kate Winslet,Johnny Depp,Kelly Macdonald",101,9
+5089,Fiza ,Drama|Romance,Khalid Mohamed,"Manoj Bajpayee,Karisma Kapoor,Jaya Bhaduri",167,9
+5090,Flight ,Drama|Thriller,Robert Zemeckis,"Bruce Greenwood,Denzel Washington,Nadine Velazquez",138,0.5
+5091,Flightplan ,Drama|Mystery|Thriller,Robert Schwentke,"Michael Irby,Erika Christensen,Haley Ramm",98,0.5
+5092,Flirting with Disaster ,Comedy,David O. Russell,"Mary Tyler Moore,Lily Tomlin,David Patrick Kelly",92,9.5
+5093,For Colored Girls ,Drama,Tyler Perry,"Loretta Devine,Omari Hardwick,Kimberly Elise",133,9.5
+5094,Frenzy ,Thriller,Alfred Hitchcock,"Jean Marsh,Bernard Cribbins,Clive Swift",116,10
+5095,Friday the 13th Part 2 ,Horror|Mystery|Thriller,Steve Miner,"Adrienne King,Betsy Palmer,Amy Steel",87,9
+5096,From Paris with Love ,Action|Thriller,Pierre Morel,"Amber Rose Revah,Kasia Smutniak,Rebecca Dayan",92,2
+5097,Furry Vengeance ,Comedy|Family,Roger Kumble,"Brooke Shields,Brendan Fraser,Matt Prokop",92,8.5
+5098,Futuro Beach ,Drama,Karim Aïnouz,"Clemens Schick,Wagner Moura,Jesuíta Barbosa",106,10
+5099,Gangster's Paradise: Jerusalema ,Action|Crime|Drama,Ralph Ziman,"Kenneth Nkosi,Rapulana Seiphemo,Robert Hobbs",119,9.5
+5100,Get Him to the Greek ,Comedy|Music,Nicholas Stoller,"Mario Lopez,Pink,Lino Facioli",114,2
+5101,Ghostbusters ,Action|Comedy|Fantasy|Sci-Fi,Paul Feig,"Kate McKinnon,Ed Begley Jr.,Zach Woods",116,9.5
+5102,Girl House ,Horror|Thriller,Jon Knautz,"Adam DiMarco,Camren Bicondova,Chasty Ballesteros",99,1
+5103,Gladiator ,Action|Drama|Romance,Ridley Scott,"Connie Nielsen,Djimon Hounsou,Oliver Reed",171,10
+5104,Glee: The 3D Concert Movie ,Documentary|Music,Kevin Tancharoen,"Heather Morris,Lea Michele,Kevin McHale",84,9
+5105,Goal! The Dream Begins ,Drama|Romance|Sport,Danny Cannon,"Kuno Becker,Sean Pertwee,Stephen Dillane",118,9
+5106,Gran Torino ,Drama,Clint Eastwood,"Dreama Walker,Clint Eastwood,Ahney Her",116,2
+5107,Groundhog Day ,Comedy|Fantasy|Romance,Harold Ramis,"Chris Elliott,Bill Murray,Willie Garson",101,9
+5108,Guardians of the Galaxy ,Action|Adventure|Sci-Fi,James Gunn,"Vin Diesel,Bradley Cooper,Djimon Hounsou",121,10
+5109,Gulliver's Travels ,Adventure|Comedy|Family|Fantasy,Rob Letterman,"Catherine Tate,James Corden,Olly Alexander",85,10
+5110,Gun Shy ,Comedy|Crime|Romance,Eric Blakeney,"Oliver Platt,Liam Neeson,Mitch Pileggi",101,1
+5111,Hamlet ,Drama,Kenneth Branagh,"Brian Blessed,Julie Christie,Richard Briers",150,9.5
+5112,High Fidelity ,Comedy|Drama|Music|Romance,Stephen Frears,"Lili Taylor,Drake Bell,Lisa Bonet",113,9
+5113,High School Musical 2 ,Comedy|Drama|Family|Music|Musical|Romance,Kenny Ortega,"Corbin Bleu,Lucas Grabeel,Olesya Rulin",111,1.5
+5114,Hoot ,Adventure|Comedy|Family,Wil Shriner,"Neil Flynn,Logan Lerman,Tim Blake Nelson",91,9
+5115,Hotel Transylvania 2 ,Animation|Comedy|Family|Fantasy,Genndy Tartakovsky,"Adam Sandler,Steve Buscemi,Fran Drescher",89,9
+5116,Howard the Duck ,Action|Adventure|Comedy|Romance|Sci-Fi,Willard Huyck,"Jeffrey Jones,Lea Thompson,Jordan Prentice",110,9.5
+5117,I Am Legend ,Drama|Horror|Sci-Fi,Francis Lawrence,"Alice Braga,Will Smith,Willow Smith",104,10
+5118,I Am Number Four ,Action|Adventure|Sci-Fi|Thriller,D.J. Caruso,"Emily Wickersham,Alex Pettyfer,Reuben Langdon",109,9.5
+5119,I Love Your Work ,Drama|Mystery,Adam Goldberg,"Marisa Coughlan,Judy Greer,Nicky Katt",111,1
+5120,Immortals ,Action|Drama|Fantasy|Romance,Tarsem Singh,"Daniel Sharman,Henry Cavill,Steve Byers",110,2
+5121,Incendies ,Drama|Mystery|War,Denis Villeneuve,"Mélissa Désormeaux-Poulin,Lubna Azabal,Ahmad Massad",139,1
+5122,Independence Daysaster ,Action|Sci-Fi,W.D. Hogan,"Keenan Tracey,Tom Everett Scott,Nicholas Carella",90,9
+5123,Indiana Jones and the Last Crusade ,Action|Adventure|Fantasy,Steven Spielberg,"Julian Glover,Harrison Ford,Alison Doody",127,10
+5124,Indie Game: The Movie ,Documentary,Lisanne Pajot,"Edmund McMillen,Jonathan Blow,Phil Fish",103,1
+5125,Inside Deep Throat ,Biography|Documentary|History,Fenton Bailey,"Bill Maher,Hugh M. Hefner,Linda Lovelace",89,10
+5126,Insidious: Chapter 3 ,Fantasy|Horror|Thriller,Leigh Whannell,"Hayley Kiyoko,Lin Shaye,Leigh Whannell",97,9.5
+5127,Interstellar ,Adventure|Drama|Sci-Fi,Christopher Nolan,"Anne Hathaway,Matthew McConaughey,Mackenzie Foy",169,2
+5128,"It's a Mad, Mad, Mad, Mad World ",Action|Adventure|Comedy|Crime,Stanley Kramer,"Sid Caesar,Jonathan Winters,Spencer Tracy",197,2
+5129,Jeepers Creepers ,Horror|Mystery,Victor Salva,"Patricia Belcher,Eileen Brennan,Jonathan Breck",90,1.5
+5130,Jesus People ,Comedy|Short,Jason Naumann,"Kate Flannery,Victoria Jackson,Tim Bagley",35,2
+5131,Jimmy and Judy ,Crime|Drama|Thriller,Randall Rubin,"A.J. Buckley,Nicole Randall Johnson,James Eckhouse",99,9
+5132,Jumper ,Action|Adventure|Sci-Fi|Thriller,Doug Liman,"Hayden Christensen,Kristen Stewart,Tom Hulce",88,9
+5133,Jungle Shuffle ,Adventure|Animation,Taedong Park,"Tom Arnold,Drake Bell,Amanda Troop",85,2
+5134,Kiss Kiss Bang Bang ,Comedy|Crime|Mystery,Shane Black,"Corbin Bernsen,Robert Downey Jr.,Larry Miller",103,2
+5135,Kiss of the Dragon ,Action|Crime|Drama|Thriller,Chris Nahon,"Bridget Fonda,Jet Li,Max Ryan",98,8.5
+5136,Kundun ,Biography|Drama|History|War,Martin Scorsese,"Tulku Jamyang Kunga Tenzin,Tenzin Thuthob Tsarong,Tencho Gyalpo",134,1.5
+5137,L'auberge espagnole ,Comedy|Drama,Cédric Klapisch,"Cécile De France,Romain Duris,Iddo Goldberg",111,9
+5138,Land of the Lost ,Adventure|Comedy|Sci-Fi,Brad Silberling,"Anna Friel,Will Ferrell,Bobb'e J. Thompson",102,1.5
+5139,Last Holiday ,Adventure|Comedy|Drama,Wayne Wang,"Alicia Witt,LL Cool J,Timothy Hutton",112,1
+5140,Les visiteurs ,Comedy|Fantasy|Sci-Fi,Jean-Marie Poiré,"Isabelle Nanty,Christian Clavier,Valérie Lemercier",107,9.5
+5141,Littleman ,Comedy|Crime,Keenen Ivory Wayans,"Brittany Daniel,Chazz Palminteri,John Witherspoon",98,9.5
+5142,Losin' It ,Comedy|Drama|Family,Curtis Hanson,"Shelley Long,Tom Cruise,Rick Rossovich",100,10
+5143,Lost in Translation ,Drama,Sofia Coppola,"Bill Murray,Scarlett Johansson,Catherine Lambert",101,9
+5144,Love Jones ,Drama|Romance,Theodore Witcher,"Nia Long,Leonard Roberts,Larenz Tate",104,9.5
+5145,Man on a Ledge ,Action|Crime|Thriller,Asger Leth,"Mandy Gonzalez,Robert Clohessy,J. Smith-Cameron",102,0.5
+5146,Man on the Moon ,Biography|Comedy|Drama,Milos Forman,"Gerry Becker,Matt Price,Tom Dreesen",118,9.5
+5147,Manito ,Drama|Family,Eric Eason,"Panchito Gómez,Franky G,Casper Martinez",79,9
+5148,Maurice ,Drama|Romance,James Ivory,"Denholm Elliott,Rupert Graves,Simon Callow",140,2
+5149,Me and Orson Welles ,Drama,Richard Linklater,"Aidan McArdle,Zoe Kazan,James Tupper",107,1
+5150,Meet Dave ,Adventure|Comedy|Family|Romance|Sci-Fi,Brian Robbins,"Mike O'Malley,Marc Blucas,Shawn Christian",90,8.5
+5151,Men in Black 3 ,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Barry Sonnenfeld,"Michael Stuhlbarg,Will Smith,Nicole Scherzinger",106,8.5
+5152,Meteor ,Action|Drama|Sci-Fi|Thriller,Ronald Neame,"Karl Malden,Martin Landau,Brian Keith",108,10
+5153,Mi America ,Crime|Drama,Robert Fontaine,"Arturo Castro,Michael Derek,Brad Lee Wind",125,8.5
+5154,Mighty Joe Young ,Action|Adventure|Family|Fantasy|Thriller,Ron Underwood,"Mika Boorem,Charlize Theron,David Paymer",114,0.5
+5155,Mirrormask ,Adventure|Fantasy,Dave McKean,"Gina McKee,Stephanie Leonidas,Rob Brydon",101,1.5
+5156,Mission: Impossible ,Action|Adventure|Thriller,Brian De Palma,"Kristin Scott Thomas,Tom Cruise,Vanessa Redgrave",110,0.5
+5157,Monty Python and the Holy Grail ,Adventure|Comedy|Fantasy,Terry Gilliam,"Michael Palin,Eric Idle,Terry Jones",91,2
+5158,Mooz-Lum ,Drama|Family,Qasim Basir,"Nia Long,Dorian Missick,Evan Ross",94,1
+5159,Mortdecai ,Action|Comedy|Mystery|Romance,David Koepp,"Olivia Munn,Johnny Depp,Ulrich Thomsen",107,0.5
+5160,Mr 3000 ,Comedy|Drama|Romance|Sport,Charles Stone III,"Chris Noth,Bernie Mac,Paul Sorvino",104,10
+5161,Mr. Holland's Opus ,Drama|Music,Stephen Herek,"Olympia Dukakis,Alicia Witt,Jean Louisa Kelly",143,10
+5162,Mr. Turner ,Biography|Drama|History,Mike Leigh,"Ruth Sheen,Lesley Manville,Karl Johnson",150,10
+5163,Murder by Numbers ,Crime|Mystery|Thriller,Barbet Schroeder,"Chris Penn,Ryan Gosling,Agnes Bruckner",115,10
+5164,My Girl ,Comedy|Drama|Family|Romance,Howard Zieff,"Jamie Lee Curtis,Macaulay Culkin,Griffin Dunne",102,0.5
+5165,Nebraska ,Adventure|Comedy|Drama,Alexander Payne,"Bruce Dern,Devin Ratray,Will Forte",115,1.5
+5166,Nicholas Nickleby ,Drama|Romance,Douglas McGrath,"Anne Hathaway,Charlie Hunnam,Jim Broadbent",132,1.5
+5167,Night of the Living Dead ,Drama|Horror|Mystery,George A. Romero,"Duane Jones,Judith O'Dea,S. William Hinzman",96,2
+5168,Nine Queens ,Crime|Drama|Thriller,Fabián Bielinsky,"Gastón Pauls,Ricardo Darín,Leticia Brédice",114,9
+5169,No Vacancy ,Horror,Chris Stokes,"Rachel Sterling,Kristen Quintrall,Black Thomas",81,9
+5170,Nothing to Lose ,Action|Adventure|Comedy|Crime,Steve Oedekerk,"Michael McKean,Kelly Preston,Rebecca Gayheart",98,9
+5171,Obvious Child ,Comedy|Drama,Gillian Robespierre,"Jenny Slate,Gaby Hoffmann,Jake Lacy",84,8.5
+5172,Of Horses and Men ,Comedy|Drama|Romance,Benedikt Erlingsson,"Charlotte Bøving,Ingvar Eggert Sigurðsson,Sigríður María Egilsdóttir",81,9
+5173,Once Upon a Time in the West ,Western,Sergio Leone,"Woody Strode,Claudia Cardinale,Jack Elam",145,8.5
+5174,One Day ,Drama|Romance,Lone Scherfig,"Jim Sturgess,Anne Hathaway,Rafe Spall",107,10
+5175,Only God Forgives ,Crime|Drama,Nicolas Winding Refn,"Kristin Scott Thomas,Ryan Gosling,Yayaying Rhatha Phongam",90,9.5
+5176,Paranormal Activity: The Marked Ones ,Fantasy|Horror|Thriller,Christopher Landon,"Gloria Sandoval,Richard Cabral,Molly Ephraim",101,2
+5177,Pathology ,Crime|Horror|Thriller,Marc Schölermann,"Larry Drake,John de Lancie,Johnny Whitworth",95,9.5
+5178,Perfume: The Story of a Murderer ,Crime|Drama|Fantasy,Tom Tykwer,"David Calder,Michael Smiley,Simon Chandler",147,10
+5179,Pirate Radio ,Comedy|Drama|Music,Richard Curtis,"Charlie Rowe,Philip Seymour Hoffman,Tom Sturridge",135,1
+5180,Plastic ,Action|Comedy|Crime|Drama,Julian Gilbey,"Alfie Allen,Mem Ferda,Malese Jow",102,10
+5181,Prom ,Comedy|Drama,Joe Nussbaum,"Thomas McDonell,Cameron Monaghan,Aimee Teegarden",104,10
+5182,Public Enemies ,Biography|Crime|Drama|History|Romance,Michael Mann,"Christian Bale,Johnny Depp,Stephen Graham",140,0.5
+5183,Punch-Drunk Love ,Comedy|Drama|Romance|Thriller,Paul Thomas Anderson,"Emily Watson,Adam Sandler,Don McManus",95,1.5
+5184,Quartet ,Comedy|Drama,Dustin Hoffman,"Sheridan Smith,Luke Newberry,Pauline Collins",98,9.5
+5185,Radio ,Biography|Drama|Sport,Michael Tollin,"Riley Smith,Alfre Woodard,Debra Winger",109,2
+5186,Radio Days ,Comedy,Woody Allen,"Don Pardo,Mike Starr,Julie Kavner",88,9
+5187,Rebecca ,Drama|Film-Noir|Mystery|Thriller,Alfred Hitchcock,"Joan Fontaine,Laurence Olivier,George Sanders",130,10
+5188,Revolutionary Road ,Drama|Romance,Sam Mendes,"Kate Winslet,Leonardo DiCaprio,Joe Komara",119,1
+5189,Ride with the Devil ,Drama|Romance|War|Western,Ang Lee,"Jeffrey Dover,Jeremy W. Auman,Tobey Maguire",148,0.5
+5190,Rise of the Planet of the Apes ,Action|Drama|Sci-Fi|Thriller,Rupert Wyatt,"David Oyelowo,James Franco,Tyler Labine",105,9
+5191,Roadside Romeo ,Animation|Comedy|Family|Romance,Jugal Hansraj,"Sanjay Mishra,Saif Ali Khan,Javed Jaffrey",93,9.5
+5192,Rock of Ages ,Comedy|Drama|Musical|Romance,Adam Shankman,"Shane Hartline,James Martin Kelly,Celina Beach",136,0.5
+5193,Romeo Must Die ,Action|Crime|Thriller,Andrzej Bartkowiak,"Delroy Lindo,Jet Li,Aaliyah",115,2
+5194,Rumble in the Bronx ,Action|Comedy,Stanley Tong,"Anita Mui,Françoise Yip,Garvin Cross",89,1
+5195,Running Scared ,Action|Crime|Drama|Thriller,Wayne Kramer,"Chazz Palminteri,Paul Walker,Ivana Milicevic",122,9
+5196,Saving Face ,Comedy|Drama|Romance,Alice Wu,"Ato Essandoh,Joan Chen,Jessica Hecht",96,9
+5197,Say It Isn't So ,Comedy|Romance,J.B. Rogers,"Chris Klein,Eddie Cibrian,Jack Plotnick",95,1.5
+5198,Scott Pilgrim vs. the World ,Action|Comedy|Fantasy|Romance,Edgar Wright,"Kieran Culkin,Anna Kendrick,Ellen Wong",112,10
+5199,Scott Walker: 30 Century Man ,Biography|Documentary|Music,Stephen Kijak,"Jacques Brel,Brian Eno,Damon Albarn",95,9.5
+5200,Set It Off ,Action|Crime|Drama|Romance|Thriller,F. Gary Gray,"Jada Pinkett Smith,Vivica A. Fox,Blair Underwood",123,2
+5201,Shopgirl ,Drama|Romance,Anand Tucker,"Bridgette Wilson-Sampras,Frances Conroy,Clyde Kusatsu",106,1.5
+5202,Simply Irresistible ,Comedy|Drama|Fantasy|Romance,Mark Tarlov,"Dylan Baker,Sarah Michelle Gellar,Lawrence Gilliard Jr.",96,9.5
+5203,Sin City ,Crime|Thriller,Frank Miller,"Powers Boothe,Rosario Dawson,Jason Douglas",147,10
+5204,Snitch ,Action|Drama|Thriller,Ric Roman Waugh,"Harold Perrineau,Dwayne Johnson,Nadine Velazquez",112,9.5
+5205,Sorority Boys ,Comedy,Wallace Wolodarsky,"Barry Watson,Heather Matarazzo,Harland Williams",93,1.5
+5206,Soul Survivors ,Drama|Horror|Mystery|Thriller,Stephen Carpenter,"Angela Featherstone,Melissa Sagemiller,Candace Kroslak",84,1.5
+5207,Space Chimps ,Adventure|Animation|Comedy|Family|Sci-Fi,Kirk De Micco,"Kenan Thompson,Cheryl Hines,Omid Abtahi",81,0.5
+5208,Spellbound ,Film-Noir|Mystery|Romance|Thriller,Alfred Hitchcock,"Rhonda Fleming,Norman Lloyd,Leo G. Carroll",95,9.5
+5209,Star Trek IV: The Voyage Home ,Adventure|Comedy|Sci-Fi,Leonard Nimoy,"Nichelle Nichols,Leonard Nimoy,Walter Koenig",119,9.5
+5210,Stargate: The Ark of Truth ,Action|Adventure|Drama|Fantasy|Sci-Fi,Robert C. Cooper,"Christopher Judge,Ben Browder,Julian Sands",97,1
+5211,Starsky & Hutch ,Comedy|Crime,Todd Phillips,"Carmen Electra,Snoop Dogg,Fred Williamson",101,1.5
+5212,Stealth ,Action|Adventure|Sci-Fi|Thriller,Rob Cohen,"Joe Morton,Sam Shepard,Richard Roxburgh",121,10
+5213,Steel ,Action|Crime|Sci-Fi,Kenneth Johnson,"Annabeth Gish,Charles Napier,Hill Harper",97,0.5
+5214,Step Up 2: The Streets ,Drama|Music|Musical|Romance,Jon M. Chu,"Mari Koda,Cassie Ventura,Luis Rosado",98,8.5
+5215,Steve Jobs ,Biography|Drama,Danny Boyle,"Michael Fassbender,Kate Winslet,Michael Stuhlbarg",122,9
+5216,Subway ,Comedy|Drama|Thriller,Luc Besson,"Isabelle Adjani,Christopher Lambert,Jean-Hugues Anglade",98,1
+5217,Suicide Squad ,Action|Adventure|Comedy|Sci-Fi,David Ayer,"Robin Atkin Downes,Will Smith,Ike Barinholtz",123,8.5
+5218,Superman ,Action|Adventure|Drama|Romance|Sci-Fi,Richard Donner,"Margot Kidder,Marlon Brando,Ned Beatty",188,8.5
+5219,Swelter ,Action|Crime|Drama|Thriller,Keith Parmer,"Josh Henderson,Rachel Ann Mullins,Grant Bowler",96,2
+5220,Sydney White ,Comedy|Romance,Joe Nussbaum,"Matt Long,Danny Strong,Samm Levine",108,9
+5221,Terminator Genisys ,Action|Adventure|Sci-Fi,Alan Taylor,"Emilia Clarke,J.K. Simmons,Matt Smith",126,1.5
+5222,That Awkward Moment ,Comedy|Romance,Tom Gormican,"Lola Glaudini,Mackenzie Davis,Josh Pais",94,9.5
+5223,The Adventures of Sharkboy and Lavagirl 3-D ,Action|Adventure|Family|Fantasy,Robert Rodriguez,"Kristin Davis,Taylor Lautner,Taylor Dooley",93,9
+5224,The Alamo ,Drama|History|War|Western,John Lee Hancock,"Marc Blucas,Dennis Quaid,Jordi Mollà",137,9
+5225,The American ,Crime|Drama|Thriller,Anton Corbijn,"Thekla Reuten,Violante Placido,Filippo Timi",105,1.5
+5226,The Amityville Horror ,Drama|Horror|Mystery|Thriller,Andrew Douglas,"Chloë Grace Moretz,Jimmy Bennett,Ryan Reynolds",90,0.5
+5227,The Barbarians ,Adventure|Fantasy,Ruggero Deodato,"Eva LaRue,Michael Berryman,Richard Lynch",87,9
+5228,The Best Man ,Comedy|Drama,Malcolm D. Lee,"Sanaa Lathan,Harold Perrineau,Jarrod Bunch",120,10
+5229,The Bourne Supremacy ,Action|Mystery|Thriller,Paul Greengrass,"Joan Allen,Matt Damon,Oksana Akinshina",108,1.5
+5230,The Californians ,Drama,Jonathan Parker,"Joanne Whalley,Keith Carradine,Illeana Douglas",87,2
+5231,The Call ,Crime|Thriller,Brad Anderson,"Tara Platt,Michael Imperioli,Roma Maffia",94,2
+5232,The Caveman's Valentine ,Crime|Drama|Music|Mystery|Thriller,Kasi Lemmons,"Tamara Tunie,Colm Feore,Aunjanue Ellis",105,8.5
+5233,The Cooler ,Crime|Drama|Fantasy|Romance,Wayne Kramer,"Paul Sorvino,Estella Warren,Shawn Hatosy",101,0.5
+5234,The Crazies ,Horror|Thriller,Breck Eisner,"Glenn Morshower,Radha Mitchell,John Aylward",101,10
+5235,The Equalizer ,Action|Crime|Thriller,Antoine Fuqua,"Chloë Grace Moretz,Denzel Washington,James Wilcox",132,9.5
+5236,The Face of an Angel ,Drama,Michael Winterbottom,"Ava Acres,Cara Delevingne,Sara Stewart",101,1.5
+5237,The Godfather ,Crime|Drama,Francis Ford Coppola,"Marlon Brando,Al Pacino,Robert Duvall",175,9.5
+5238,The Good Thief ,Action|Crime|Drama|Romance|Thriller,Neil Jordan,"Saïd Taghmaoui,Emir Kusturica,Tchéky Karyo",109,10
+5239,"The Good, the Bad and the Ugly ",Western,Sergio Leone,"Luigi Pistilli,Clint Eastwood,Enzo Petito",142,10
+5240,The Great Raid ,Action|Drama|War,John Dahl,"Clayne Crawford,James Franco,Paolo Montalban",132,1
+5241,The History Boys ,Comedy|Drama,Nicholas Hytner,"Russell Tovey,Dominic Cooper,James Corden",109,9
+5242,The Hitchhiker's Guide to the Galaxy ,Adventure|Comedy|Sci-Fi,Garth Jennings,"Kelly Macdonald,Zooey Deschanel,Thomas Lennon",109,8.5
+5243,The Holy Girl ,Drama,Lucrecia Martel,"Mercedes Morán,Mía Maestro,María Alche",106,9
+5244,The Host ,Action|Adventure|Romance|Sci-Fi|Thriller,Andrew Niccol,"Chandler Canterbury,J.D. Evermore,Rachel Roberts",125,10
+5245,The Hotel New Hampshire ,Comedy|Drama|Romance,Tony Richardson,"Beau Bridges,Joely Richardson,Nastassja Kinski",109,9
+5246,The Hours ,Drama|Romance,Stephen Daldry,"Stephen Dillane,Meryl Streep,Miranda Richardson",114,10
+5247,The Hunt for Red October ,Action|Adventure|Thriller,John McTiernan,"Jeffrey Jones,Scott Glenn,Courtney B. Vance",135,8.5
+5248,The Ides of March ,Drama,George Clooney,"Philip Seymour Hoffman,Ryan Gosling,Jennifer Ehle",101,9
+5249,The Imaginarium of Doctor Parnassus ,Adventure|Fantasy|Mystery,Terry Gilliam,"Lily Cole,Andrew Garfield,Verne Troyer",123,8.5
+5250,The Immigrant ,Drama|Romance,James Gray,"Dagmara Dominczyk,Jeremy Renner,Angela Sarafyan",120,9.5
+5251,The Impossible ,Drama|Thriller,J.A. Bayona,"Geraldine Chaplin,Naomi Watts,Oaklee Pendergast",114,0.5
+5252,The Informers ,Crime|Drama|Thriller,Gregor Jordan,"Brad Renfro,Austin Nichols,Lou Taylor Pucci",98,9
+5253,The Island of Dr. Moreau ,Horror|Sci-Fi|Thriller,John Frankenheimer,"Temuera Morrison,Marlon Brando,Marco Hofschneider",99,1.5
+5254,The Janky Promoters ,Comedy|Crime|Music,Marcus Raboy,"Tamala Jones,Mike Epps,Glenn Plummer",85,2
+5255,The Jimmy Show ,Comedy|Drama,Frank Whaley,"Frank Whaley,Lynn Cohen,Heather Bucha",96,8.5
+5256,The Land Girls ,Drama|Romance|War,David Leland,"Catherine McCormack,Anna Friel,Steven Mackintosh",111,1.5
+5257,The Last Castle ,Action|Drama|Thriller,Rod Lurie,"Delroy Lindo,Clifton Collins Jr.,Michael Irby",131,9.5
+5258,The Lost World: Jurassic Park ,Action|Adventure|Sci-Fi,Steven Spielberg,"Richard Schiff,Ariana Richards,Vanessa Lee Chester",129,9
+5259,The Lovers ,Action|Adventure|Romance|Sci-Fi,Roland Joffé,"Alice Englert,Tamsin Egerton,Bipasha Basu",109,2
+5260,The Majestic ,Drama|Romance,Frank Darabont,"Hal Holbrook,Martin Landau,Jeffrey DeMunn",152,1
+5261,The Manchurian Candidate ,Drama|Mystery|Sci-Fi|Thriller,Jonathan Demme,"Dorian Missick,Denzel Washington,Jose Pablo Cantillo",129,0.5
+5262,The Matador ,Comedy|Crime|Drama|Thriller,Richard Shepard,"Philip Baker Hall,Adam Scott,Hope Davis",96,1
+5263,The Omega Code ,Action|Adventure|Fantasy|Sci-Fi|Thriller,Robert Marcarelli,"William Hootkins,George Coe,Ayla Kell",100,1.5
+5264,The Open Road ,Comedy|Drama,Michael Meredith,"Justin Timberlake,Jeff Bridges,Ted Danson",91,9
+5265,The Party's Over ,Drama,Guy Hamilton,"Eddie Albert,Oliver Reed,Louise Sorel",94,1
+5266,The Peanuts Movie ,Adventure|Animation|Comedy|Family,Steve Martino,"Venus Schultheis,Francesca Capaldi,Bill Melendez",88,9
+5267,The Pelican Brief ,Crime|Drama|Mystery|Thriller,Alan J. Pakula,"Julia Roberts,Denzel Washington,Tony Goldwyn",141,1.5
+5268,The Pledge ,Crime|Drama|Mystery|Thriller,Sean Penn,"Adrien Dorval,Costas Mandylor,Nels Lennarson",124,9
+5269,The Poker House ,Drama,Lori Petty,"Chloë Grace Moretz,Jennifer Lawrence,Bokeem Woodbine",93,1
+5270,The Pursuit of Happyness ,Biography|Drama,Gabriele Muccino,"Kurt Fuller,Will Smith,James Karen",117,1
+5271,The Secret Life of Bees ,Drama,Gina Prince-Bythewood,"Alicia Keys,Nate Parker,Jennifer Hudson",110,1.5
+5272,The Shawshank Redemption ,Crime|Drama,Frank Darabont,"Jeffrey DeMunn,Morgan Freeman,Bob Gunton",142,0.5
+5273,The Sisterhood of the Traveling Pants ,Comedy|Drama|Family|Romance,Ken Kwapis,"America Ferrera,Mike Vogel,Kyle Schmid",119,1.5
+5274,The Skeleton Key ,Horror|Mystery|Thriller,Iain Softley,"Deneen Tyler,Gena Rowlands,Joy Bryant",104,9
+5275,The Skulls ,Action|Crime|Drama|Thriller,Rob Cohen,"Leslie Bibb,Paul Walker,William Petersen",106,2
+5276,The Sleepwalker ,Drama,Mona Fastvold,"Brady Corbet,Christopher Abbott,Gitte Witt",91,8.5
+5277,The Spectacular Now ,Comedy|Drama|Romance,James Ponsoldt,"Jennifer Jason Leigh,Shailene Woodley,Dayo Okeniyi",95,9.5
+5278,The Spirit ,Action|Crime|Fantasy|Thriller,Frank Miller,"Jaime King,Scarlett Johansson,Louis Lombardi",103,0.5
+5279,The Sum of All Fears ,Action|Drama|Thriller,Phil Alden Robinson,"Bruce McGill,Morgan Freeman,Philip Baker Hall",124,8.5
+5280,The Tale of Despereaux ,Adventure|Animation|Comedy|Family|Fantasy,Sam Fell,"Matthew Broderick,Emma Watson,Frank Langella",93,9.5
+5281,The Tempest ,Comedy|Drama|Fantasy|Romance,Julie Taymor,"Reeve Carney,Djimon Hounsou,Tom Conti",110,10
+5282,The Tree of Life ,Drama|Fantasy,Terrence Malick,"Tye Sheridan,Brad Pitt,Fiona Shaw",139,10
+5283,The Vatican Tapes ,Horror|Thriller,Mark Neveldine,"Alison Lohman,Djimon Hounsou,Dougray Scott",91,1
+5284,The Watch ,Action|Comedy|Sci-Fi,Akiva Schaffer,"Nicholas Braun,Will Forte,Rosemarie DeWitt",102,1.5
+5285,The White Countess ,Drama|History|Romance|War,James Ivory,"Natasha Richardson,Vanessa Redgrave,Lynn Redgrave",135,0.5
+5286,The White Ribbon ,Drama|Mystery,Michael Haneke,"Burghart Klaußner,Ulrich Tukur,Leonie Benesch",144,2
+5287,The Wraith ,Action|Horror|Romance|Sci-Fi|Thriller,Mike Marvin,"Randy Quaid,Clint Howard,Nick Cassavetes",93,8.5
+5288,The Young and Prodigious T.S. Spivet ,Action|Adventure|Drama|Family,Jean-Pierre Jeunet,"Julian Richings,Callum Rennie,Judy Davis",105,0.5
+5289,Thinner ,Fantasy|Horror,Tom Holland,"Bethany Joy Lenz,Joe Mantegna,Kari Wuhrer",93,0.5
+5290,This Is It ,Documentary|Music,Kenny Ortega,"Mekia Cox,Misha Gabriel Hamilton,Judith Hill",111,8.5
+5291,Thomas and the Magic Railroad ,Adventure|Comedy|Drama|Family|Fantasy,Britt Allcroft,"Colm Feore,Mara Wilson,Peter Fonda",85,8.5
+5292,Timber Falls ,Horror|Thriller,Tony Giglio,"Nick Searcy,Brianna Brown,Beth Broderick",100,1
+5293,Touching the Void ,Adventure|Documentary|Drama|Sport,Kevin Macdonald,"Brendan Mackey,Nicholas Aaron,Joe Simpson",106,8.5
+5294,Transformers: Age of Extinction ,Action|Adventure|Sci-Fi,Michael Bay,"Sophia Myles,Bingbing Li,Kelsey Grammer",165,10
+5295,Treachery ,Drama|Thriller,Travis Romero,"Lorraine Ziff,Matthew Ziff,Michael Biehn",67,9.5
+5296,Tremors ,Comedy|Horror|Sci-Fi,Ron Underwood,"Ariana Richards,Reba McEntire,Michael Gross",96,1.5
+5297,Trust ,Crime|Drama|Thriller,David Schwimmer,"Jordan Trovillion,Noah Emmerich,Zoe Levin",106,9.5
+5298,Tupac: Resurrection ,Biography|Documentary|Music,Lauren Lazin,"Gary Coleman,James Cagney,Todd Bridges",112,1.5
+5299,Two Brothers ,Adventure|Drama|Family,Jean-Jacques Annaud,"Jean-Claude Dreyfus,David Gant,Oanh Nguyen",109,9.5
+5300,Two Weeks Notice ,Comedy|Romance,Marc Lawrence,"Alicia Witt,Dorian Missick,Dana Ivey",101,9.5
+5301,Underclassman ,Action|Comedy|Crime|Drama|Thriller,Marcos Siega,"Nick Cannon,Cheech Marin,Kaylee DeFer",95,9.5
+5302,Valkyrie ,Drama|History|Thriller|War,Bryan Singer,"Tom Wilkinson,Tom Cruise,Thomas Kretschmann",121,9
+5303,Van Wilder: Party Liaison ,Comedy|Romance,Walt Becker,"Curtis Armstrong,Ryan Reynolds,Erik Estrada",94,9
+5304,Velvet Goldmine ,Drama|Music,Todd Haynes,"Eddie Izzard,Christian Bale,Janet McTeer",124,1
+5305,Wanted ,Action|Crime|Fantasy|Thriller,Timur Bekmambetov,"Morgan Freeman,Angelina Jolie Pitt,Common",110,9
+5306,Warlock ,Action|Fantasy|Horror|Thriller,Steve Miner,"Richard E. Grant,Julian Sands,Lori Singer",103,8.5
+5307,Wayne's World ,Comedy|Music,Penelope Spheeris,"Lara Flynn Boyle,Tia Carrere,Kurt Fuller",94,9
+5308,We Bought a Zoo ,Comedy|Drama|Family,Cameron Crowe,"Matt Damon,Scarlett Johansson,Stephanie Szostak",124,1.5
+5309,We Have Your Husband ,Crime|Drama|Thriller,Eric Bross,"Esai Morales,Teri Polo,Nicholas Gonzalez",87,9.5
+5310,Weekend ,Drama|Romance,Andrew Haigh,"Chris New,Tom Cullen,Vauxhall Jermaine",97,8.5
+5311,Welcome to Mooseport ,Comedy|Romance,Donald Petrie,"Ray Romano,Rip Torn,Maura Tierney",110,2
+5312,White House Down ,Action|Drama|Thriller,Roland Emmerich,"Jake Weber,Channing Tatum,Matt Craven",131,9.5
+5313,White Squall ,Adventure|Drama,Ridley Scott,"Jason Marsden,Jeff Bridges,Ethan Embry",129,9.5
+5314,Wicked Blood ,Action|Crime|Drama|Thriller,Mark Young,"Jake Busey,Alexa PenaVega,Lew Temple",92,0.5
+5315,Win a Date with Tad Hamilton! ,Comedy|Romance,Robert Luketic,"Gary Cole,Topher Grace,Nathan Lane",95,9
+5316,Windsor Drive ,Mystery|Thriller,Natalie Bible',"Samaire Armstrong,Tommy O'Reilly,Matt Cohen",90,2
+5317,World's Greatest Dad ,Comedy|Drama,Bobcat Goldthwait,"Daryl Sabara,Robin Williams,Henry Simmons",99,10
+5318,Zambezia ,Adventure|Animation|Comedy|Family,Wayne Thornley,"Phil LaMarr,Leonard Nimoy,Noureen DeWulf",83,0.5
+Catch a Fire ,Biography|Drama|History,Phillip Noyce,"Terry Pheto,Derek Luke,Bonnie Henna",98,9.5
+My Last Day Without You ,Comedy|Drama|Romance,Stefan C. Schaefer,"Marlene Forte,Nicole Beharie,Reg E. Cathey",90,9.0
+Four Lions ,Comedy|Crime|Drama,Christopher Morris,"Riz Ahmed,Kayvan Novak,Alex Macqueen",97,9.5
+The Hustler ,Drama|Sport,Robert Rossen,"Jackie Gleason,George C. Scott,Murray Hamilton",134,10.0
+Goal! The Dream Begins ,Drama|Romance|Sport,Danny Cannon,"Kuno Becker,Sean Pertwee,Stephen Dillane",118,9.5
+De-Lovely ,Biography|Drama|Music|Musical,Irwin Winkler,"Keith Allen,Kevin McNally,Sandra Nelson",125,9.5
+Percy Jackson & the Olympians: The Lightning Thief ,Adventure|Family|Fantasy,Chris Columbus,"Rosario Dawson,Logan Lerman,Steve Coogan",118,9.5
+Gun Shy ,Comedy|Crime|Romance,Eric Blakeney,"Oliver Platt,Liam Neeson,Mitch Pileggi",101,8.5
+The Lovely Bones ,Drama|Fantasy|Thriller,Peter Jackson,"AJ Michalka,Michael Imperioli,Tom McCarthy",135,9.0
+The Horseman on the Roof ,Adventure|Drama|Romance|War,Jean-Paul Rappeneau,"François Cluzet,Olivier Martinez,Isabelle Carré",135,9.5
+"Yours, Mine and Ours ",Comedy|Family,Melville Shavelson,"Tom Bosley,Lucille Ball,Tim Matheson",111,10.0
+Ghosts of Mississippi ,Drama|History,Rob Reiner,"Virginia Madsen,Alexa PenaVega,Craig T. Nelson",130,9.5
+Osmosis Jones ,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,Bobby Farrelly,"Brandy Norwood,Ron Howard,David Hyde Pierce",95,10.0
+Twilight ,Drama|Fantasy|Romance,Catherine Hardwicke,"Taylor Lautner,Kristen Stewart,Anna Kendrick",122,8.5
+Tusk ,Comedy|Drama|Horror,Kevin Smith,"Haley Joel Osment,Johnny Depp,Michael Parks",102,9.0
+Galaxina ,Comedy|Sci-Fi,William Sachs,"Avery Schreiber,Stephen Macht,Angelo Rossitto",95,9.0
+The Janky Promoters ,Comedy|Crime|Music,Marcus Raboy,"Tamala Jones,Mike Epps,Glenn Plummer",85,9.5
+Gone with the Wind ,Drama|History|Romance|War,Victor Fleming,"George Reeves,Hattie McDaniel,Thomas Mitchell",226,9.5
+The Weather Man ,Comedy|Drama,Gore Verbinski,"Hope Davis,Nicolas Cage,Michael Rispoli",102,10.0
+Child's Play ,Fantasy|Horror,Tom Holland,"Alex Vincent,Catherine Hicks,Dinah Manoff",87,8.5
+Star Trek: Nemesis ,Action|Adventure|Sci-Fi|Thriller,Stuart Baird,"LeVar Burton,Tom Hardy,Jonathan Frakes",116,9.0
+The Crazies ,Horror|Thriller,Breck Eisner,"Glenn Morshower,Radha Mitchell,John Aylward",101,9.5
+Spanglish ,Comedy|Drama|Romance,James L. Brooks,"Paz Vega,Adam Sandler,Sarah Steele",131,9.0
+Love Happens ,Drama|Romance,Brandon Camp,"Sasha Alexander,Judy Greer,Frances Conroy",109,9.5
+Apocalypto ,Action|Adventure|Drama|Thriller,Mel Gibson,"Dalia Hernández,Rudy Youngblood,Jonathan Brewer",139,10.0
+I Spy ,Action|Adventure|Comedy|Thriller,Betty Thomas,"Phill Lewis,Gary Cole,Tate Taylor",97,8.5
+Meet the Spartans ,Comedy,Jason Friedberg,"Diedrich Bader,Carmen Electra,Method Man",86,9.0
+A Passage to India ,Adventure|Drama|History,David Lean,"Judy Davis,Richard Wilson,Art Malik",164,10.0
+Big Trouble ,Comedy|Crime|Thriller,Barry Sonnenfeld,"Janeane Garofalo,Zooey Deschanel,Omar Epps",74,10.0
+Beowulf ,Action|Adventure|Animation|Fantasy,Robert Zemeckis,"Anthony Hopkins,Robin Wright,Sebastian Roché",115,10.0
+Forget Me Not ,Horror|Romance|Thriller,Tyler Oliver,"Chloe Bridges,Bella Thorne,Christopher Atkins",103,9.0
+Basquiat ,Biography|Drama,Julian Schnabel,"Michael Wincott,Gary Oldman,Courtney Love",108,9.5
+The Party's Over ,Drama,Guy Hamilton,"Eddie Albert,Oliver Reed,Louise Sorel",94,9.0
+House of Flying Daggers ,Action|Adventure|Drama|Romance,Yimou Zhang,"Andy Lau,Takeshi Kaneshiro,Zhengyong Zhang",119,8.5
+Resurrecting the Champ ,Drama|Sport,Rod Lurie,"Kathryn Morris,Harry Lennix,Peter Coyote",112,10.0
+Reindeer Games ,Action|Adventure|Crime|Drama|Family|Fantasy|Romance|Thriller,John Frankenheimer,"James Frain,Charlize Theron,Clarence Williams III",124,9.5
+Queen of the Mountains ,Action|Biography|Drama|History,Sadyk Sher-Niyaz,"Aziz Muradillayev,Elina Abai Kyzy,Mirlan Abdulayev",135,9.5
+Boom Town ,Adventure|Drama|Romance|Western,Jack Conway,"Spencer Tracy,Hedy Lamarr,Claudette Colbert",119,10.0
+The Neon Demon ,Horror|Thriller,Nicolas Winding Refn,"Bella Heathcote,Keanu Reeves,Charles Baker",118,10.0
+Bedazzled ,Comedy|Fantasy|Romance,Harold Ramis,"Frances O'Connor,Brendan Fraser,Brian Doyle-Murray",93,9.0
+Across the Universe ,Drama|Fantasy|Musical|Romance,Julie Taymor,"T.V. Carpio,Jim Sturgess,Robert Clohessy",133,8.5
+Gran Torino ,Drama,Clint Eastwood,"Dreama Walker,Clint Eastwood,Ahney Her",116,9.5
+The Princess Diaries ,Comedy|Family|Romance,Garry Marshall,"Hector Elizondo,Anne Hathaway,Heather Matarazzo",111,10.0
+The Town ,Crime|Drama|Thriller,Ben Affleck,"Jon Hamm,Jeremy Renner,Owen Burke",150,10.0
+Harold & Kumar Escape from Guantanamo Bay ,Adventure|Comedy,Jon Hurwitz,"Eric Winter,Danneel Ackles,Beverly D'Angelo",102,9.0
+The Sisterhood of the Traveling Pants 2 ,Comedy|Drama|Family|Romance,Sanaa Hamri,"Blythe Danner,America Ferrera,Michael Rady",119,9.5
+No Country for Old Men ,Crime|Drama|Thriller,Ethan Coen,"Stephen Root,Kelly Macdonald,Barry Corbin",122,8.5
+The Blair Witch Project ,Horror,Daniel Myrick,"Joshua Leonard,Heather Donahue,Michael C. Williams",81,9.0
+Star Trek VI: The Undiscovered Country ,Action|Adventure|Sci-Fi|Thriller,Nicholas Meyer,"Kurtwood Smith,Leonard Nimoy,Nichelle Nichols",110,8.5
+Mortdecai ,Action|Comedy|Mystery|Romance,David Koepp,"Olivia Munn,Johnny Depp,Ulrich Thomsen",107,8.5
+Something Borrowed ,Comedy|Drama|Romance,Luke Greenfield,"Steve Howey,Ashley Williams,Kirsten Day",112,10.0
+Burnt ,Comedy|Drama,John Wells,"Omar Sy,Bradley Cooper,Riccardo Scamarcio",101,10.0
+Annie ,Comedy|Drama|Family|Musical,Will Gluck,"Dorian Missick,Quvenzhané Wallis,David Zayas",118,8.5
+The Pursuit of Happyness ,Biography|Drama,Gabriele Muccino,"Kurt Fuller,Will Smith,James Karen",117,9.0
+Battle of the Year ,Drama|Music,Benson Lee,"Caity Lotz,Chris Brown,Laz Alonso",110,8.5
+Blue Ruin ,Crime|Drama|Thriller,Jeremy Saulnier,"Eve Plumb,Devin Ratray,Amy Hargreaves",90,9.0
+Soul Food ,Comedy|Drama,George Tillman Jr.,"Mekhi Phifer,Vanessa Williams,Vivica A. Fox",115,9.0
+The Swindle ,Comedy|Crime|Thriller,Claude Chabrol,"François Cluzet,Isabelle Huppert,Michel Serrault",101,9.5
+Year One ,Adventure|Comedy,Harold Ramis,"Oliver Platt,Olivia Wilde,Xander Berkeley",100,9.5
+Toy Story 2 ,Adventure|Animation|Comedy|Family|Fantasy,John Lasseter,"John Ratzenberger,Tom Hanks,Wayne Knight",82,9.5
+Standard Operating Procedure ,Crime|Documentary|War,Errol Morris,"Megan Ambuhl Graner,Jeffrey Frost,Ken Davis",118,9.0
+Somewhere ,Comedy|Drama,Sofia Coppola,"Chris Pontius,Nathalie Fay,Erin Wasson",97,9.5
+The Raven ,Crime|Mystery|Thriller,James McTeigue,"Dave Legeno,Pam Ferris,Kevin McNally",110,8.5
+Flirting with Disaster ,Comedy,David O. Russell,"Mary Tyler Moore,Lily Tomlin,David Patrick Kelly",92,8.5
+Clear and Present Danger ,Action|Crime|Drama|Thriller,Phillip Noyce,"Dean Jones,Harrison Ford,Raymond Cruz",141,10.0
+Dances with Wolves ,Adventure|Drama|Western,Kevin Costner,"Michael Spears,Mary McDonnell,Maury Chaykin",236,9.5
+Set It Off ,Action|Crime|Drama|Romance|Thriller,F. Gary Gray,"Jada Pinkett Smith,Vivica A. Fox,Blair Underwood",123,8.5
+The Pirates Who Don't Do Anything: A VeggieTales Movie ,Adventure|Animation|Comedy|Family,Mike Nawrocki,"Cam Clarke,Yuri Lowenthal,Phil Vischer",85,10.0
+Twins ,Comedy|Crime,Ivan Reitman,"Tony Jay,Kelly Preston,Hugh O'Brian",107,8.5
+The Haunting in Connecticut 2: Ghosts of Georgia ,Drama|Horror|Mystery|Thriller,Tom Elkins,"Cicely Tyson,Abigail Spencer,Brad James",101,9.0
+Circumstance ,Drama,Maryam Keshavarz,"Reza Sixo Safai,Sarah Kazemy,Sina Amedson",107,9.0
+The Brass Teapot ,Comedy|Fantasy|Thriller,Ramaa Mosley,"Michael Angarano,Jack McBrayer,Alia Shawkat",101,9.0
+Torn Curtain ,Thriller,Alfred Hitchcock,"Lila Kedrova,Tamara Toumanova,David Opatoshu",128,9.5
+Kill the Messenger ,Biography|Crime|Drama|Mystery|Thriller,Michael Cuesta,"Paz Vega,Jeremy Renner,Robert Pralgo",112,9.5
+The Horror Network Vol. 1 ,Horror,Brian Dorton,"Brian Dorton,Javier Botet,Jan Cornet",97,8.5
+Enemy of the State ,Action|Crime|Drama|Mystery|Thriller,Tony Scott,"Jake Busey,Will Smith,Lisa Bonet",140,8.5
+Detention ,Comedy|Horror|Sci-Fi,Joseph Kahn,"Shanley Caswell,Josh Hutcherson,Parker Bagley",93,10.0
+Little Fockers ,Comedy|Romance,Paul Weitz,"Blythe Danner,Robert De Niro,Teri Polo",98,10.0
+Lifeforce ,Action|Horror|Sci-Fi|Thriller,Tobe Hooper,"Steve Railsback,Frank Finlay,Peter Firth",101,10.0
+Fight Club ,Drama,David Fincher,"Meat Loaf,Brad Pitt,Eugenie Bondurant",151,10.0
+Funny People ,Comedy|Drama,Judd Apatow,"RZA,Adam Sandler,Maude Apatow",153,10.0
+Never Back Down 2: The Beatdown ,Action|Drama|Sport,Michael Jai White,"Alex Meraz,Michael Jai White,Jillian Murray",90,8.5
+Avatar ,Action|Adventure|Fantasy|Sci-Fi,James Cameron,"Joel David Moore,CCH Pounder,Wes Studi",178,9.0
+The Legend of Tarzan ,Action|Adventure|Drama|Romance,David Yates,"Alexander Skarsgård,Christoph Waltz,Casper Crump",110,9.0
+Out of Africa ,Biography|Drama|Romance,Sydney Pollack,"Michael Gough,Meryl Streep,Michael Kitchen",161,8.5
+My Favorite Martian ,Comedy|Family|Sci-Fi,Donald Petrie,"Ray Walston,Steven Anthony Lawrence,Michael Lerner",94,9.0
+Blade: Trinity ,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,David S. Goyer,"Natasha Lyonne,Ryan Reynolds,John Michael Higgins",122,9.0
+Money Talks ,Action|Comedy|Crime|Thriller,Brett Ratner,"Paul Sorvino,Heather Locklear,Faizon Love",97,10.0
+Ace Ventura: When Nature Calls ,Adventure|Comedy,Steve Oedekerk,"Bob Gunton,Bruce Spence,Sophie Okonedo",90,9.5
+The Postman ,Action|Adventure|Drama|Sci-Fi,Kevin Costner,"Brian Anthony Wilson,Olivia Williams,Larenz Tate",177,9.0
+Home ,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Tim Johnson,"Matt Jones,Jim Parsons,April Winchell",94,9.5
+Kickboxer: Vengeance ,Action,John Stockwell,"T.J. Storm,Matthew Ziff,Sam Medina",90,9.0
+Hesher ,Drama,Spencer Susser,"Natalie Portman,Joseph Gordon-Levitt,Rainn Wilson",106,10.0
+Mrs. Doubtfire ,Comedy|Drama|Family|Romance,Chris Columbus,"Mara Wilson,Robin Williams,Matthew Lawrence",125,8.5
+Sugar Town ,Comedy|Music,Allison Anders,"Rosanna Arquette,Ally Sheedy,John Doe",92,9.5
+The Mask of Zorro ,Action|Adventure|Comedy|Romance|Thriller|Western,Martin Campbell,"Tony Amendola,Anthony Hopkins,Stuart Wilson",136,10.0
+Man on a Ledge ,Action|Crime|Thriller,Asger Leth,"Mandy Gonzalez,Robert Clohessy,J. Smith-Cameron",102,9.5
+Never Back Down 2: The Beatdown ,Action|Drama|Sport,Michael Jai White,"Alex Meraz,Michael Jai White,Jillian Murray",90,10.0
+Pacific Rim ,Action|Adventure|Sci-Fi,Guillermo del Toro,"Clifton Collins Jr.,Charlie Hunnam,Larry Joe Campbell",131,8.5
+The Terminator ,Action|Sci-Fi,James Cameron,"Brian Thompson,Michael Biehn,Paul Winfield",107,9.5
+The Conspirator ,Crime|Drama|History,Robert Redford,"Tom Wilkinson,Robin Wright,Stephen Root",122,8.5
+PCU ,Comedy,Hart Bochner,"Matt Ross,Jon Favreau,Chris Young",79,9.0
+Mongol: The Rise of Genghis Khan ,Adventure|Biography|Drama|History|War,Sergey Bodrov,"Khulan Chuluun,Tadanobu Asano,Honglei Sun",126,10.0
+Beverly Hills Chihuahua ,Adventure|Comedy|Drama|Family|Romance,Raja Gosnell,"Nick Zano,Jamie Lee Curtis,Ali Hillis",91,9.5
+Summer Catch ,Comedy|Drama|Romance|Sport,Michael Tollin,"Brian Dennehy,Marc Blucas,Bruce Davison",108,9.5
+The Last Sin Eater ,Drama,Michael Landon Jr.,"Louise Fletcher,Henry Thomas,A.J. Buckley",117,9.0
+The Girl Next Door ,Comedy|Drama|Romance,Luke Greenfield,"Timothy Bottoms,Chris Marquette,Jacob Young",110,8.5
+The Man from Snowy River ,Adventure|Drama|Family|Romance|Western,George Miller,"Jack Thompson,Tony Bonner,Tom Burlinson",102,9.5
+Teeth and Blood ,Horror,Al Franklin,"Steffinnie Phrommany,Marshal Hilton,Clint Jung",96,9.5
+Buffalo '66 ,Comedy|Crime|Drama|Romance,Vincent Gallo,"Vincent Gallo,Anjelica Huston,Jan-Michael Vincent",110,8.5
+Little Nicholas ,Comedy|Family,Laurent Tirard,"Sandrine Kiberlain,Louise Bourgoin,Kad Merad",91,8.5
+"Run, Fatboy, Run ",Comedy|Romance|Sport,David Schwimmer,"Iddo Goldberg,Dylan Moran,India de Beaufort",100,10.0
+Gerry ,Adventure|Drama|Mystery,Gus Van Sant,"Casey Affleck,Matt Damon,",103,10.0
+The Doors ,Biography|Drama|Music|Musical,Oliver Stone,"Kevin Dillon,Michael Wincott,Kathleen Quinlan",140,9.0
+Footloose ,Drama|Music|Romance,Herbert Ross,"Chris Penn,Dianne Wiest,Lori Singer",107,9.0
+The Rundown ,Action|Adventure|Comedy|Thriller,Peter Berg,"Rosario Dawson,Dwayne Johnson,Ewen Bremner",104,9.0
+Two Can Play That Game ,Comedy|Romance,Mark Brown,"Vivica A. Fox,Mo'Nique,Tamala Jones",90,10.0
+Coyote Ugly ,Comedy|Drama|Music|Romance,David McNally,"Tyra Banks,Adam Garcia,Izabella Miko",107,8.5
+Twixt ,Comedy|Fantasy|Horror|Mystery,Francis Ford Coppola,"Bruce Dern,Alden Ehrenreich,Joanne Whalley",88,9.5
+The Protector ,Action|Crime|Drama|Thriller,Prachya Pinkaew,"Nathan Jones,Jon Foo,Johnny Nguyen",111,9.0
+Focus ,Comedy|Crime|Drama|Romance,Glenn Ficarra,"Adrian Martinez,Will Smith,Gerald McRaney",105,9.5
+By the Sea ,Drama|Romance,Angelina Jolie Pitt,"Angelina Jolie Pitt,Brad Pitt,Melvil Poupaud",122,9.0
+Firestorm ,Action|Crime|Thriller,Alan Yuen,"Michael Wong,Andy Lau,Terence Yin",118,8.5
+Killing Them Softly ,Crime|Thriller,Andrew Dominik,"Sam Shepard,Brad Pitt,Ben Mendelsohn",97,8.5
+Becoming Jane ,Biography|Drama|Romance,Julian Jarrold,"Julie Walters,Anne Hathaway,Laurence Fox",120,9.0
+Finishing the Game: The Search for a New Bruce Lee ,Comedy,Justin Lin,"Jake Sandvig,Monique Gabriela Curnen,Joe McQueen",84,8.5
+The Sessions ,Biography|Comedy|Drama|Romance,Ben Lewin,"Adam Arkin,W. Earl Brown,Rhea Perlman",95,10.0
+Paul Blart: Mall Cop ,Action|Comedy|Crime,Steve Carr,"Adhir Kalyan,Erick Avari,Allen Covert",91,9.5
+War of the Worlds ,Adventure|Sci-Fi|Thriller,Steven Spielberg,"Lisa Ann Walter,Tom Cruise,Rick Gonzalez",116,9.5
+The Exploding Girl ,Drama,Bradley Rust Gray,"Mark Rendall,Zoe Kazan,Jordan Scovel",79,9.5
+Blade ,Action|Horror,Stephen Norrington,"Traci Lords,Sanaa Lathan,Udo Kier",110,10.0
+The Bounty Hunter ,Action|Comedy|Romance,Andy Tennant,"Dorian Missick,Gerard Butler,Peter Greene",110,9.5
+The Straight Story ,Biography|Drama,David Lynch,"Richard Farnsworth,Sissy Spacek,Everett McGill",112,9.0
+The Happening ,Sci-Fi|Thriller,M. Night Shyamalan,"Alan Ruck,Zooey Deschanel,Kristen Connolly",91,9.5
+Congo ,Action|Adventure|Mystery|Sci-Fi,Frank Marshall,"Joe Don Baker,Dylan Walsh,Grant Heslov",109,9.0
+Aberdeen ,Drama,Hans Petter Moland,"Sara-Marie Maltha,Charlotte Rampling,Stellan Skarsgård",106,8.5
+The Sisterhood of Night ,Drama|Mystery|Thriller,Caryn Waechter,"Kara Hayward,Laura Fraser,Louis Ozawa Changchien",104,8.5
+Raymond Did It ,Horror,Travis Legge,"Patricia Raven,Elissa Dowling,Lindsay Felton",83,9.0
+"Big Mommas: Like Father, Like Son ",Action|Comedy|Crime,John Whitesell,"Tony Curran,Brandon T. Jackson,Portia Doubleday",113,10.0
+Hell's Angels ,Drama|War,Howard Hughes,"Marian Marsh,Jean Harlow,James Hall",96,10.0
+Into the Grizzly Maze ,Action|Horror|Thriller,David Hackl,"Michaela McManus,Scott Glenn,Luisa D'Oliveira",94,9.0
+Skyfall ,Action|Adventure|Thriller,Sam Mendes,"Helen McCrory,Albert Finney,Rory Kinnear",143,9.5
+The True Story of Puss'N Boots ,Adventure|Animation|Comedy,Jérôme Deschamps,"André Wilms,Yolande Moreau,Jérôme Deschamps",80,9.5
+Seventh Son ,Action|Adventure|Fantasy,Sergey Bodrov,"Djimon Hounsou,Jeff Bridges,Olivia Williams",102,8.5
+LOL ,Comedy|Drama|Romance,Lisa Azuelos,"Lina Esco,Nora Dunn,Alix Freihage",97,9.0
+This Thing of Ours ,Crime|Drama,Danny Provenzano,"Frank Vincent,Vincent Pastore,Chuck Zito",100,10.0
+I Heart Huckabees ,Comedy,David O. Russell,"Lily Tomlin,Naomi Watts,Isabelle Huppert",107,10.0
+American Pie ,Comedy,Paul Weitz,"Shannon Elizabeth,Alyson Hannigan,Natasha Lyonne",95,9.5
+Incident at Loch Ness ,Adventure|Comedy|Horror,Zak Penn,"Gabriel Beristain,Zak Penn,John Bailey",94,8.5
+Grabbers ,Comedy|Horror|Sci-Fi|Thriller,Jon Wright,"Richard Coyle,Russell Tovey,Bronagh Gallagher",94,9.5
+The Banger Sisters ,Comedy|Drama,Bob Dolman,"Eva Amurri Martino,Erika Christensen,Sal Lopez",98,9.0
+Containment ,Horror|Sci-Fi|Thriller,Neil Mcenery-West,"Michael Chapman,Walter Hendrix III,Louise Brealey",77,9.0
+Krampus ,Comedy|Fantasy|Horror,Michael Dougherty,"Conchata Ferrell,Adam Scott,Allison Tolman",98,8.5
+The Day After Tomorrow ,Action|Adventure|Sci-Fi|Thriller,Roland Emmerich,"Dennis Quaid,Jake Gyllenhaal,Sela Ward",124,8.5
+Sabotage ,Action|Crime|Drama|Thriller,David Ayer,"Martin Donovan,Mireille Enos,Maurice Compte",109,9.0
+Tangled ,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,Nathan Greno,"Donna Murphy,Brad Garrett,M.C. Gainey",100,9.5
+Richard III ,Drama|War,Richard Loncraine,"Jim Broadbent,Robert Downey Jr.,Kristin Scott Thomas",104,8.5
+What a Girl Wants ,Comedy|Drama|Family|Romance,Dennie Gordon,"Oliver James,Colin Firth,Kelly Preston",105,9.5
+Bogus ,Comedy|Family|Fantasy,Norman Jewison,"Nancy Travis,Haley Joel Osment,Andrea Martin",110,10.0
+Friday the 13th Part VIII: Jason Takes Manhattan ,Adventure|Horror,Rob Hedden,"Peter Mark Richman,Kane Hodder,Scott Reeves",100,10.0
+Herbie Fully Loaded ,Adventure|Comedy|Family|Fantasy|Romance|Sport,Angela Robinson,"Thomas Lennon,Scoot McNairy,Cheryl Hines",101,8.5
+River's Edge ,Crime|Drama,Tim Hunter,"Daniel Roebuck,Keanu Reeves,Ione Skye",99,9.0
+Kung Fu Hustle ,Action|Comedy|Crime|Fantasy,Stephen Chow,"Chi Ling Chiu,Shengyi Huang,Qiu Yuen",99,9.0
+The Usual Suspects ,Crime|Drama|Mystery|Thriller,Bryan Singer,"Chazz Palminteri,Kevin Spacey,Kevin Pollak",106,9.0
+The American President ,Comedy|Drama|Romance,Rob Reiner,"Samantha Mathis,Shawna Waldron,Wendie Malick",114,9.0
+The Hobbit: The Desolation of Smaug ,Adventure|Fantasy,Peter Jackson,"Adam Brown,Aidan Turner,James Nesbitt",186,10.0
+W. ,Biography|Drama|History,Oliver Stone,"Scott Glenn,Toby Jones,Bruce McGill",129,9.0
+How to Train Your Dragon 2 ,Action|Adventure|Animation|Comedy|Family|Fantasy,Dean DeBlois,"Djimon Hounsou,Gerard Butler,America Ferrera",102,8.5
+Inescapable ,Drama|Mystery|Romance|Thriller,Ruba Nadda,"Bonnie Lee Bouman,Saad Siddiqui,Fadia Nadda",93,10.0
+Wolves ,Action|Horror,David Hayter,"Jennifer Hale,Jason Momoa,Stephen McHattie",91,10.0
+Def-Con 4 ,Action|Sci-Fi,Paul Donovan,"Lenore Zann,Maury Chaykin,Tim Choate",88,8.5
+Conan the Barbarian ,Adventure|Fantasy,John Milius,"Mako,William Smith,Sandahl Bergman",129,9.0
+Austin Powers: The Spy Who Shagged Me ,Action|Adventure|Comedy|Crime,Jay Roach,"Verne Troyer,Muse Watson,Robert Wagner",95,9.0
+The Cookout ,Comedy,Lance Rivera,"Vincent Pastore,Farrah Fawcett,Jenifer Lewis",97,10.0
+Barnyard ,Animation|Comedy|Family,Steve Oedekerk,"Wanda Sykes,Rob Paulsen,Maurice LaMarche",90,9.0
+Sherlock Holmes ,Action|Adventure|Crime|Mystery|Thriller,Guy Ritchie,"Eddie Marsan,Robert Downey Jr.,Robert Maillet",128,8.5
+The Great Gatsby ,Drama|Romance,Baz Luhrmann,"Elizabeth Debicki,Leonardo DiCaprio,Steve Bisley",143,10.0
+Leap Year ,Comedy|Romance,Anand Tucker,"Kaitlin Olson,Adam Scott,Dominique McElligott",100,8.5
+The Horror Network Vol. 1 ,Horror,Brian Dorton,"Brian Dorton,Javier Botet,Jan Cornet",97,8.5
+Cats & Dogs ,Action|Comedy|Family|Fantasy,Lawrence Guterman,"Elizabeth Perkins,Carol Ann Susi,Miriam Margolyes",87,9.0
+Alice in Wonderland ,Adventure|Family|Fantasy,Tim Burton,"Alan Rickman,Johnny Depp,Anne Hathaway",108,9.5
+An American Haunting ,Horror|Mystery|Thriller,Courtney Solomon,"James D'Arcy,Sissy Spacek,Vernon Dobtcheff",91,10.0
+Crooklyn ,Comedy|Drama,Spike Lee,"Delroy Lindo,Alfre Woodard,Isaiah Washington",115,10.0
+Mars Attacks! ,Action|Comedy|Sci-Fi,Tim Burton,"Martin Short,Natalie Portman,Lukas Haas",106,9.5
+The Beastmaster ,Action|Adventure|Fantasy,Don Coscarelli,"John Amos,Vanna Bonta,Rip Torn",90,8.5
+Isn't She Great ,Biography|Comedy|Romance,Andrew Bergman,"Nathan Lane,Stockard Channing,John Larroquette",95,9.0
+Hedwig and the Angry Inch ,Comedy|Drama|Music|Musical,John Cameron Mitchell,"Miriam Shor,John Cameron Mitchell,Andrea Martin",95,10.0
+Gangs of New York ,Crime|Drama,Martin Scorsese,"Liam Neeson,Leonardo DiCaprio,Jim Broadbent",216,10.0
+Shark Tale ,Adventure|Animation|Comedy|Family,Bibo Bergeron,"Martin Scorsese,Robert De Niro,Angelina Jolie Pitt",90,9.5
+Jack Reacher ,Action|Crime|Mystery|Thriller,Christopher McQuarrie,"Robert Duvall,Tom Cruise,David Oyelowo",130,9.5
+The General's Daughter ,Drama|Mystery|Thriller,Simon West,"Timothy Hutton,Daniel von Bargen,Clarence Williams III",116,9.5
+Treading Water ,Comedy|Drama,Analeine Cal y Mayor,"Douglas Smith,Zoë Kravitz,Kim Ly",92,9.0
+Star Wars: Episode V - The Empire Strikes Back ,Action|Adventure|Fantasy|Sci-Fi,Irvin Kershner,"Kenny Baker,Harrison Ford,Anthony Daniels",127,10.0
+Machete Kills ,Action|Comedy|Crime|Thriller,Robert Rodriguez,"Demián Bichir,Alexa PenaVega,Marko Zaror",107,8.5
+Prophecy ,Horror|Sci-Fi,John Frankenheimer,"Richard Dysart,Talia Shire,Robert Foxworth",102,8.5
+The Innkeepers ,Horror,Ti West,"Jake Ryan,Lena Dunham,Pat Healy",101,8.5
+Sparkle ,Drama|Music,Salim Akil,"Curtis Armstrong,Omari Hardwick,Mike Epps",116,9.0
+Girl House ,Horror|Thriller,Jon Knautz,"Adam DiMarco,Camren Bicondova,Chasty Ballesteros",99,9.0
+Light It Up ,Drama|Thriller,Craig Bolotin,"Vanessa Williams,Rosario Dawson,Robert Ri'chard",99,10.0
+Demonic ,Horror|Thriller,Will Canon,"Scott Mechlowicz,Frank Grillo,Aaron Yoo",83,9.5
+Match Point ,Drama|Romance|Thriller,Woody Allen,"Mark Gatiss,Scarlett Johansson,Penelope Wilton",119,9.0
+Water for Elephants ,Drama|Romance,Francis Lawrence,"Christoph Waltz,Robert Pattinson,James Frain",120,10.0
+The Visit ,Horror|Thriller,M. Night Shyamalan,"Patch Darragh,Ocean James,Olivia DeJonge",94,9.5
+The Hills Have Eyes ,Horror,Alexandre Aja,"Greg Nicotero,Dan Byrd,Vinessa Shaw",108,9.5
+The Exorcist ,Horror,William Friedkin,"Linda Blair,Ellen Burstyn,Lee J. Cobb",132,9.0
+Living Out Loud ,Comedy|Drama|Romance,Richard LaGravenese,"Eddie Cibrian,Holly Hunter,Jenette Goldstein",100,8.5
+Ladyhawke ,Adventure|Comedy|Drama|Fantasy,Richard Donner,"John Wood,Matthew Broderick,Leo McKern",121,9.5
+Love Happens ,Drama|Romance,Brandon Camp,"Sasha Alexander,Judy Greer,Frances Conroy",109,10.0
+Immortals ,Action|Drama|Fantasy|Romance,Tarsem Singh,"Daniel Sharman,Henry Cavill,Steve Byers",110,9.0
+Death to Smoochy ,Comedy|Crime|Drama|Thriller,Danny DeVito,"Vincent Schiavelli,Robin Williams,Danny Woodburn",109,9.5
+Star Wars: Episode IV - A New Hope ,Action|Adventure|Fantasy|Sci-Fi,George Lucas,"Peter Cushing,Harrison Ford,Kenny Baker",125,8.5
+A Dog's Breakfast ,Comedy,David Hewlett,"David Hewlett,Christopher Judge,Paul McGillion",88,10.0
+Soldier ,Action|Drama|Sci-Fi,Paul W.S. Anderson,"Sean Pertwee,Connie Nielsen,Jason Scott Lee",99,9.5
+Out of Inferno ,Action,Danny Pang,"Angelica Lee,Louis Koo,Ching Wan Lau",107,8.5
+Hard Candy ,Crime|Drama|Thriller,David Slade,"G.J. Echternkamp,Odessa Rae,Patrick Wilson",104,9.0
+The Virginity Hit ,Comedy,Huck Botko,"Krysta Rodriguez,Matt Bennett,Zack Pearlman",86,10.0
+Epic ,Adventure|Animation|Family|Fantasy,Chris Wedge,"Emma Kenney,Josh Hutcherson,Troy Evans",102,9.5
+Fuel ,Documentary,Joshua Tickell,"Sheryl Crow,Larry David,George W. Bush",112,9.5
+A Nightmare on Elm Street ,Horror,Wes Craven,"Lin Shaye,Johnny Depp,Amanda Wyss",101,8.5
+American Ninja 2: The Confrontation ,Action|Drama,Sam Firstenberg,"Steve James,Michael Dudikoff,Larry Poindexter",90,10.0
+The Pirates! Band of Misfits ,Adventure|Animation|Comedy|Family,Peter Lord,"Russell Tovey,Salma Hayek,Brian Blessed",88,10.0
+Critical Care ,Comedy|Drama,Sidney Lumet,"Anne Bancroft,Kyra Sedgwick,Albert Brooks",107,10.0
+The Descendants ,Comedy|Drama,Alexander Payne,"Nick Krause,Shailene Woodley,Beau Bridges",115,8.5
+Pi ,Drama|Mystery|Thriller,Darren Aronofsky,"Clint Mansell,Mark Margolis,Stanley B. Herman",84,9.0
+Charlie's Angels ,Action|Adventure|Comedy|Crime|Thriller,McG,"LL Cool J,Bill Murray,Kelly Lynch",94,10.0
+Bless the Child ,Crime|Drama|Horror|Thriller,Chuck Russell,"Jimmy Smits,Rufus Sewell,Angela Bettis",107,9.5
+Wild Card ,Action|Crime|Drama|Thriller,Simon West,"Michael Angarano,Jason Statham,Jason Alexander",92,9.0
+Anderson's Cross ,Comedy|Drama|Romance,Jerome Elston Scott,"Joanna Cassidy,Taran Killam,Ryan Carnes",98,9.0
+Sheena ,Adventure|Fantasy,John Guillermin,"Donovan Scott,Tanya Roberts,Ted Wass",117,8.5
+Rotor DR1 ,Family|Sci-Fi,Chad Kapper,"Natalie Welch,Tom E. Nicholson,Christian Kapper",98,9.5
+Still Alice ,Drama,Richard Glatzer,"Hunter Parrish,Kristen Stewart,Seth Gilliam",101,8.5
+Another Earth ,Drama|Romance|Sci-Fi,Mike Cahill,"William Mapother,Robin Lord Taylor,Flint Beverage",92,9.5
+Monsters vs. Aliens ,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Rob Letterman,"Rainn Wilson,Amy Poehler,Stephen Colbert",94,8.5
+"A Woman, a Gun and a Noodle Shop ",Comedy|Drama,Yimou Zhang,"Ni Yan,Honglei Sun,Dahong Ni",95,9.0
+The Toxic Avenger Part II ,Action|Comedy|Horror|Sci-Fi,Michael Herz,"Jessica Dublin,Phoebe Legere,Lisa Gaye",96,8.5
+Thir13en Ghosts ,Horror,Steve Beck,"Embeth Davidtz,Shannon Elizabeth,F. Murray Abraham",91,9.0
+Money Talks ,Action|Comedy|Crime|Thriller,Brett Ratner,"Paul Sorvino,Heather Locklear,Faizon Love",97,8.5
+Sense and Sensibility ,Drama|Romance,Ang Lee,"Kate Winslet,Alan Rickman,Tom Wilkinson",136,9.5
+Escape from the Planet of the Apes ,Action|Sci-Fi,Don Taylor,"M. Emmet Walsh,Roddy McDowall,Sal Mineo",98,9.0
+Flatliners ,Drama|Horror|Sci-Fi|Thriller,Joel Schumacher,"Oliver Platt,Julia Roberts,Hope Davis",115,8.5
+The Grey ,Action|Adventure|Drama|Thriller,Joe Carnahan,"Frank Grillo,Liam Neeson,James Badge Dale",117,8.5
+Meek's Cutoff ,Drama|Western,Kelly Reichardt,"Zoe Kazan,Bruce Greenwood,Shirley Henderson",104,10.0
+The Secret in Their Eyes ,Drama|Mystery|Thriller,Juan José Campanella,"Soledad Villamil,Ricardo Darín,Guillermo Francella",129,8.5
+The Legend of Suriyothai ,Action|Adventure|Drama|History|War,Chatrichalerm Yukol,"Chatchai Plengpanich,Sarunyu Wongkrachang,Mai Charoenpura",300,8.5
+Bran Nue Dae ,Comedy|Drama|Musical,Rachel Perkins,"Magda Szubanski,Deborah Mailman,Jessica Mauboy",88,9.0
+Winter's Bone ,Drama,Debra Granik,"Shelley Waggener,Jennifer Lawrence,Lauren Sweetser",100,8.5
+Bloodsport ,Action|Biography|Drama|Sport,Newt Arnold,"Donald Gibb,Bolo Yeung,Ken Siu",92,10.0
+The King of Najayo ,Crime|Drama,Fernando Baez Mella,"Christian Alvarez,Manny Perez,Claudette Lalí",101,10.0
+ParaNorman ,Adventure|Animation|Comedy|Family|Fantasy,Chris Butler,"Kodi Smit-McPhee,Anna Kendrick,Elaine Stritch",92,9.0
+Alvin and the Chipmunks: The Squeakquel ,Animation|Comedy|Family|Fantasy|Music,Betty Thomas,"Bridgit Mendler,Amy Poehler,Jesse McCartney",88,9.0
+The Chambermaid on the Titanic ,Drama|Romance,Bigas Luna,"Aitana Sánchez-Gijón,Olivier Martinez,Romane Bohringer",101,8.5
+Treachery ,Drama|Thriller,Travis Romero,"Lorraine Ziff,Matthew Ziff,Michael Biehn",67,10.0
+Earth ,Drama|Romance|War,Deepa Mehta,"Gulshan Grover,Nandita Das,Eric Peterson",110,9.5
+The Hobbit: The Desolation of Smaug ,Adventure|Fantasy,Peter Jackson,"Adam Brown,Aidan Turner,James Nesbitt",186,9.0
+Bolt ,Adventure|Animation|Comedy|Drama|Family,Byron Howard,"Diedrich Bader,Chloë Grace Moretz,James Lipton",96,9.0
+Double Jeopardy ,Crime|Mystery|Thriller,Bruce Beresford,"Annabeth Gish,Bruce Greenwood,Bruce Campbell",105,9.5
+Closure ,Thriller,Dan Reed,"Adam Rayner,Danny Dyer,Ralph Brown",80,8.5
+The Hobbit: The Battle of the Five Armies ,Adventure|Fantasy,Peter Jackson,"Adam Brown,Aidan Turner,James Nesbitt",164,8.5
+The Saint ,Action|Adventure|Romance|Sci-Fi|Thriller,Phillip Noyce,"Michael Byrne,Alun Armstrong,Velibor Topic",116,10.0
+Saved! ,Comedy|Drama,Brian Dannelly,"Patrick Fugit,Macaulay Culkin,Eva Amurri Martino",92,8.5
+A Nightmare on Elm Street ,Horror,Wes Craven,"Lin Shaye,Johnny Depp,Amanda Wyss",101,10.0
+The Three Stooges ,Comedy,Bobby Farrelly,"Larry David,Kate Upton,Sean Hayes",92,9.5
+Caddyshack ,Comedy|Sport,Harold Ramis,"Rodney Dangerfield,Bill Murray,Brian Doyle-Murray",98,9.5
+"As Above, So Below ",Horror|Mystery|Thriller,John Erick Dowdle,"Edwin Hodge,Ben Feldman,Perdita Weeks",93,9.0
+Down in the Valley ,Drama|Romance|Thriller,David Jacobson,"Bruce Dern,Hunter Parrish,Rory Culkin",108,9.0
+Taxi Driver ,Crime|Drama,Martin Scorsese,"Albert Brooks,Robert De Niro,Peter Boyle",110,10.0
+Hansel & Gretel: Witch Hunters ,Action|Fantasy|Horror,Tommy Wirkola,"Derek Mears,Jeremy Renner,Ingrid Bolsø Berdal",98,10.0
+Ulee's Gold ,Drama,Victor Nunez,"Patricia Richardson,Peter Fonda,Vanessa Zima",113,8.5
+Anchorman: The Legend of Ron Burgundy ,Comedy,Adam McKay,"Will Ferrell,Darcy Donavan,Steve Carell",98,9.5
+Tycoon ,Adventure|Drama|Romance,Richard Wallace,"Paul Fix,Judith Anderson,Laraine Day",95,10.0
+The Young Messiah ,Drama,Cyrus Nowrasteh,"Vincent Walsh,Clive Russell,Finn Ireland",111,9.5
+Monsters ,Drama|Sci-Fi|Thriller,Gareth Edwards,"Whitney Able,Scoot McNairy,Ricky Catter",94,9.0
+The Upside of Anger ,Comedy|Drama,Mike Binder,"Erika Christensen,Alicia Witt,Joan Allen",118,9.5
+The Expendables ,Action|Adventure|Thriller,Sylvester Stallone,"Sylvester Stallone,Jason Statham,Jet Li",113,9.5
+Sisters in Law ,Documentary,Florence Ayisi,"Beatrice Ntuba,Vera Ngassa,",104,9.0
+The Conformist ,Drama,Bernardo Bertolucci,"Stefania Sandrelli,Jean-Louis Trintignant,Dominique Sanda",106,9.0
+Cold Mountain ,Adventure|Drama|History|Romance|War,Anthony Minghella,"Natalie Portman,Philip Seymour Hoffman,Charlie Hunnam",154,9.0
+Austin Powers: International Man of Mystery ,Comedy|Crime,Jay Roach,"Charles Napier,Will Ferrell,Robert Wagner",68,9.5
+Gracie ,Biography|Drama|Sport,Davis Guggenheim,"John Doman,Emma Bell,Carly Schroeder",95,9.0
+The Last Time I Committed Suicide ,Biography|Drama,Stephen Kay,"Marg Helgenberger,Keanu Reeves,Gretchen Mol",92,10.0
+The Good Guy ,Comedy|Romance,Julio DePietro,"Scott Porter,Adrian Martinez,Aaron Yoo",90,9.5
+Big Miracle ,Biography|Drama|Romance,Ken Kwapis,"Tim Blake Nelson,Ted Danson,Andrew Daly",107,10.0
+The Warlords ,Action|Drama|History|Romance|War,Peter Ho-Sun Chan,"Takeshi Kaneshiro,Jet Li,Andy Lau",113,9.0
+Napoleon Dynamite ,Comedy,Jared Hess,"Diedrich Bader,Jon Heder,Jon Gries",92,10.0
+Howards End ,Drama|Romance,James Ivory,"Vanessa Redgrave,Anthony Hopkins,Samuel West",140,9.0
+The Fugitive ,Action|Adventure|Crime|Drama|Mystery|Thriller,Andrew Davis,"Daniel Roebuck,Harrison Ford,Sela Ward",130,9.0
+Detention of the Dead ,Comedy|Horror,Alex Craig Mann,"Christa B. Allen,Justin Chon,Max Adler",87,10.0
+Street Fighter: The Legend of Chun-Li ,Action|Crime|Drama|Mystery|Thriller,Andrzej Bartkowiak,"Robin Shou,Chris Klein,Josie Ho",96,8.5
+The Sentinel ,Action|Crime|Thriller,Clark Johnson,"David Rasche,Blair Brown,Martin Donovan",107,8.5
+The Giver ,Drama|Romance|Sci-Fi,Phillip Noyce,"Meryl Streep,Jeff Bridges,Alexander Skarsgård",97,9.0
+Tower Heist ,Action|Comedy|Crime,Brett Ratner,"Gabourey Sidibe,Matthew Broderick,Judd Hirsch",104,9.5
+Lisa Picard Is Famous ,Comedy|Drama,Griffin Dunne,"Fisher Stevens,Mira Sorvino,Melissa Gilbert",90,10.0
+Pitch Black ,Horror|Sci-Fi,David Twohy,"Radha Mitchell,Vin Diesel,Cole Hauser",112,9.5
+Don Jon ,Comedy|Drama|Romance,Joseph Gordon-Levitt,"Scarlett Johansson,Joseph Gordon-Levitt,Tony Danza",90,8.5
+From Hell ,Horror|Mystery|Thriller,Albert Hughes,"Jason Flemyng,Johnny Depp,Ian Richardson",122,9.5
+Ninja Assassin ,Action|Crime|Thriller,James McTeigue,"Ben Miles,Shô Kosugi,Rain",99,10.0
+Containment ,Horror|Sci-Fi|Thriller,Neil Mcenery-West,"Michael Chapman,Walter Hendrix III,Louise Brealey",77,8.5
+Albino Alligator ,Crime|Drama|Thriller,Kevin Spacey,"Joe Mantegna,Viggo Mortensen,Faye Dunaway",97,9.0
+Atlas Shrugged II: The Strike ,Drama|Mystery|Sci-Fi,John Putch,"Diedrich Bader,Robert Picardo,Esai Morales",111,8.5
+Ghosts of Mississippi ,Drama|History,Rob Reiner,"Virginia Madsen,Alexa PenaVega,Craig T. Nelson",130,9.0
+Spaceballs ,Adventure|Comedy|Sci-Fi,Mel Brooks,"Dick Van Patten,Joan Rivers,Michael Winslow",96,10.0
+The World Is Mine ,Drama,Nicolae Constantin Tanase,"Ana Maria Guran,Iulia Ciochina,Ana Vatamanu",104,8.5
+Walking and Talking ,Comedy|Drama|Romance,Nicole Holofcener,"Anne Heche,Kevin Corrigan,Vincent Pastore",86,9.0
+Supernova ,Horror|Sci-Fi|Thriller,Walter Hill,"Wilson Cruz,Robert Forster,Vanessa Marshall",91,9.5
+Daddy Day Camp ,Comedy|Family,Fred Savage,"Brian Doyle-Murray,Lochlyn Munro,Tamala Jones",89,9.0
+The Day the Earth Stood Still ,Drama|Sci-Fi|Thriller,Scott Derrickson,"Jon Hamm,Keanu Reeves,Juan Riedinger",104,8.5
+Alien ,Horror|Sci-Fi,Ridley Scott,"Yaphet Kotto,Tom Skerritt,Bolaji Badejo",116,8.5
+My Sister's Keeper ,Drama,Nick Cassavetes,"Sofia Vassilieva,Jason Patric,Jeffrey Markle",109,10.0
+Welcome to the Dollhouse ,Comedy|Drama,Todd Solondz,"Ken Leung,Heather Matarazzo,Christina Vidal",88,10.0
+Top Gun ,Action|Drama|Romance,Tony Scott,"Tom Skerritt,Tom Cruise,Adrian Pasdar",110,9.5
+Land of the Dead ,Horror,George A. Romero,"Shawn Roberts,Tony Nappo,Pedro Miguel Arce",97,9.5
+Malevolence ,Crime|Horror|Mystery|Thriller,Stevan Mena,"Stevan Mena,R. Brandon Johnson,Richard Glover",90,9.5
+Doogal ,Adventure|Animation|Comedy|Family|Fantasy,Dave Borthwick,"Kylie Minogue,Jimmy Fallon,Jon Stewart",77,8.5
+Ocean's Eleven ,Crime|Thriller,Steven Soderbergh,"Bernie Mac,Brad Pitt,Elliott Gould",116,10.0
+American Dreamz ,Comedy|Music,Paul Weitz,"Dennis Quaid,Judy Greer,Chris Klein",107,10.0
+Jesus People ,Comedy|Short,Jason Naumann,"Kate Flannery,Victoria Jackson,Tim Bagley",35,8.5
+The Chumscrubber ,Comedy|Drama,Arie Posin,"John Heard,Rory Culkin,Tim DeKay",108,9.0
+Lonesome Jim ,Comedy|Drama,Steve Buscemi,"Seymour Cassel,Kevin Corrigan,Mary Kay Place",91,9.5
+Brothers ,Drama|Thriller,Jim Sheridan,"Jake Gyllenhaal,Natalie Portman,Ethan Suplee",105,8.5
+Munich ,Drama|History|Thriller,Steven Spielberg,"Moritz Bleibtreu,Ayelet Zurer,Mathieu Amalric",163,9.5
+Ondine ,Drama|Mystery|Romance,Neil Jordan,"Stephen Rea,Tony Curran,Alicja Bachleda",111,9.0
+In the Valley of Elah ,Crime|Drama|Mystery|Thriller,Paul Haggis,"Charlize Theron,James Franco,Barry Corbin",121,8.5
+Facing the Giants ,Drama|Sport,Alex Kendrick,"Erin Bethea,Alex Kendrick,Shannen Fields",111,9.0
+From Here to Eternity ,Drama|Romance|War,Fred Zinnemann,"Donna Reed,Montgomery Clift,Deborah Kerr",118,9.5
+Kung Fu Panda 2 ,Action|Adventure|Animation|Comedy|Family,Jennifer Yuh Nelson,"Gary Oldman,Angelina Jolie Pitt,Mike Bell",90,9.5
+Hurricane Streets ,Crime|Drama|Romance,Morgan J. Freeman,"Heather Matarazzo,Edie Falco,Lynn Cohen",86,10.0
+Spaceballs ,Adventure|Comedy|Sci-Fi,Mel Brooks,"Dick Van Patten,Joan Rivers,Michael Winslow",96,9.5
+Psycho Beach Party ,Comedy|Horror|Mystery,Robert Lee King,"Kathleen Robertson,Lauren Ambrose,Beth Broderick",85,10.0
+Boyz n the Hood ,Crime|Drama,John Singleton,"Lloyd Avery II,John Cothran,Na'Blonka Durden",112,8.5
+Love the Coopers ,Comedy,Jessie Nelson,"Alex Borstein,Olivia Wilde,Timothée Chalamet",107,9.0
+This Thing of Ours ,Crime|Drama,Danny Provenzano,"Frank Vincent,Vincent Pastore,Chuck Zito",100,9.5
+Listening ,Drama|Sci-Fi|Thriller,Khalil Sullins,"Kalim Chandler,Thomas Stroppel,Amber Marie Bollinger",100,8.5
+Death Race 2000 ,Action|Comedy|Sci-Fi|Sport,Paul Bartel,"David Carradine,Sylvester Stallone,Martin Kove",80,9.0
+Unbreakable ,Drama|Mystery|Sci-Fi|Thriller,M. Night Shyamalan,"Bruce Willis,Robin Wright,Michael Kelly",106,10.0
+The Nun's Story ,Drama,Fred Zinnemann,"Peter Finch,Colleen Dewhurst,Beatrice Straight",149,8.5
+Me Before You ,Drama|Romance,Thea Sharrock,"Emilia Clarke,Sam Claflin,Brendan Coyle",110,8.5
+The Blood of Heroes ,Action|Sci-Fi|Sport,David Webb Peoples,"Joan Chen,Delroy Lindo,Anna Katarina",90,8.5
+London ,Drama|Romance,Hunter Richards,"Chris Evans,Jason Statham,Dane Cook",92,9.0
+Traffic ,Crime|Drama|Thriller,Steven Soderbergh,"Jacob Vargas,Michael O'Neill,James Lew",190,9.0
+Warriors of Virtue ,Action|Adventure|Fantasy,Ronny Yu,"Lee Arenberg,Marley Shelton,Angus Macfadyen",101,8.5
+Chuck & Buck ,Comedy|Drama,Miguel Arteta,"Mike White,Lupe Ontiveros,Chris Weitz",96,10.0
+There Be Dragons ,Biography|Drama|War,Roland Joffé,"Dougray Scott,Jordi Mollà,Lily Cole",102,10.0
+Rugrats Go Wild ,Adventure|Animation|Comedy|Family|Fantasy|Musical,John Eng,"Cree Summer,Elizabeth Daily,Nancy Cartwright",80,10.0
+"Crouching Tiger, Hidden Dragon ",Action|Drama|Romance,Ang Lee,"Pei-Pei Cheng,Chen Chang,Sihung Lung",120,9.5
+Night Watch ,Fantasy|Thriller,Timur Bekmambetov,"Aleksey Chadov,Konstantin Khabenskiy,Zhanna Friske",104,9.0
+Shanghai Surprise ,Adventure|Crime|Drama|Romance,Jim Goddard,"Paul Freeman,Victor Wong,Clyde Kusatsu",97,9.5
+Zipper ,Drama|Thriller,Mora Stephens,"Alexandra Breckenridge,Ray Winstone,Elena Satine",103,9.0
+Buried ,Drama|Mystery|Thriller,Rodrigo Cortés,"Samantha Mathis,Ryan Reynolds,Erik Palladino",95,10.0
+A Walk Among the Tombstones ,Crime|Drama|Mystery|Thriller,Scott Frank,"Boyd Holbrook,Liam Neeson,David Harbour",114,9.5
+Star Trek: Nemesis ,Action|Adventure|Sci-Fi|Thriller,Stuart Baird,"LeVar Burton,Tom Hardy,Jonathan Frakes",116,9.0
+The Protector ,Action|Crime|Drama|Thriller,Prachya Pinkaew,"Nathan Jones,Jon Foo,Johnny Nguyen",111,9.0
+Star Trek III: The Search for Spock ,Action|Adventure|Sci-Fi,Leonard Nimoy,"Nichelle Nichols,Leonard Nimoy,Walter Koenig",105,9.5
+The Ballad of Gregorio Cortez ,Western,Robert M. Young,"Bruce McGill,Barry Corbin,Ned Beatty",105,9.0
+Fruitvale Station ,Biography|Drama|Romance,Ryan Coogler,"Melonie Diaz,Ahna O'Reilly,Ariana Neal",85,9.0
+Fascination ,Mystery|Romance|Thriller,Klaus Menzel,"Jacqueline Bisset,Adam Garcia,Alice Evans",103,9.0
+Young Guns ,Action|Crime|Drama|Thriller|Western,Christopher Cain,"Patrick Wayne,Jack Palance,Brian Keith",107,8.5
+Close Encounters of the Third Kind ,Drama|Sci-Fi,Steven Spielberg,"Teri Garr,Bob Balaban,Melinda Dillon",135,8.5
+The Blood of Heroes ,Action|Sci-Fi|Sport,David Webb Peoples,"Joan Chen,Delroy Lindo,Anna Katarina",90,9.5
+Hellboy II: The Golden Army ,Action|Adventure|Fantasy|Horror|Sci-Fi,Guillermo del Toro,"Iván Kamarás,Seth MacFarlane,Brian Steele",120,9.0
+The Rookie ,Drama|Family|Sport,John Lee Hancock,"Jay Hernandez,Dennis Quaid,Angus T. Jones",127,8.5
+House at the End of the Street ,Drama|Horror|Thriller,Mark Tonderai,"Nolan Gerard Funk,Jennifer Lawrence,Gil Bellows",101,8.5
+Control ,Biography|Drama|Music,Anton Corbijn,"Samantha Morton,Sam Riley,Alexandra Maria Lara",122,9.5
+Romeo Is Bleeding ,Action|Crime|Drama|Thriller,Peter Medak,"Michael Wincott,Gary Oldman,Lena Olin",100,9.0
+Valkyrie ,Drama|History|Thriller|War,Bryan Singer,"Tom Wilkinson,Tom Cruise,Thomas Kretschmann",121,10.0
+Grace Unplugged ,Drama|Music,Brad J. Silverman,"Michael Welch,Shawnee Smith,Anthony Reynolds",102,9.0
+Forsaken ,Drama|Western,Jon Cassar,"Landon Liboiron,Demi Moore,Michael Wincott",90,8.5
+Frankenweenie ,Animation|Comedy|Family|Horror|Sci-Fi,Tim Burton,"Catherine O'Hara,Martin Landau,Atticus Shaffer",87,9.0
+Fantastic Four ,Action|Adventure|Sci-Fi,Josh Trank,"Reg E. Cathey,Tim Blake Nelson,Tim Heidecker",100,8.5
+White House Down ,Action|Drama|Thriller,Roland Emmerich,"Jake Weber,Channing Tatum,Matt Craven",131,10.0
+The Indian in the Cupboard ,Drama|Family|Fantasy,Frank Oz,"Vincent Kartheiser,Steve Coogan,David Keith",96,10.0
+Inception ,Action|Adventure|Sci-Fi|Thriller,Christopher Nolan,"Tom Hardy,Leonardo DiCaprio,Joseph Gordon-Levitt",148,8.5
+The Square ,Documentary|Drama|History|News,Jehane Noujaim,"Ahmed Hassan,Khalid Abdalla,Aida Elkashef",108,10.0
+The Abyss ,Adventure|Drama|Sci-Fi|Thriller,James Cameron,"Todd Graff,Michael Biehn,Mary Elizabeth Mastrantonio",171,9.5
+Mama ,Fantasy|Horror,Andrés Muschietti,"Megan Charpentier,Javier Botet,Isabelle Nélisse",100,9.0
+The Trouble with Harry ,Comedy|Mystery|Romance,Alfred Hitchcock,"John Forsythe,Jerry Mathers,Royal Dano",99,9.5
+Firestarter ,Action|Horror|Sci-Fi|Thriller,Mark L. Lester,"George C. Scott,Heather Locklear,David Keith",114,8.5
+The Janky Promoters ,Comedy|Crime|Music,Marcus Raboy,"Tamala Jones,Mike Epps,Glenn Plummer",85,9.0
+The Sitter ,Comedy,David Gordon Green,"J.B. Smoove,Ari Graynor,Kylie Bunbury",87,9.0
+Trade of Innocents ,Drama|Thriller,Christopher M. Bessette,"John Billingsley,Mira Sorvino,Trieu Tran",88,10.0
+The Vatican Exorcisms ,Horror,Joe Marino,"Anella Vastola,Piero Maggiò,Joe Marino",76,9.5
+The Battle of Shaker Heights ,Comedy|Drama|Romance,Efram Potelle,"Elden Henson,Shiri Appleby,Kathleen Quinlan",79,9.0
+The Omen ,Fantasy|Horror|Mystery,Richard Donner,"Patrick Troughton,Lee Remick,Billie Whitelaw",107,9.5
+Snakes on a Plane ,Action|Adventure|Crime|Drama|Thriller,David R. Ellis,"Kenan Thompson,Lin Shaye,Rachel Blanchard",105,10.0
+Topaz ,Drama|Thriller,Alfred Hitchcock,"John Vernon,Roscoe Lee Browne,Philippe Noiret",127,8.5
+Bogus ,Comedy|Family|Fantasy,Norman Jewison,"Nancy Travis,Haley Joel Osment,Andrea Martin",110,9.0
+Halloween 4: The Return of Michael Myers ,Horror|Thriller,Dwight H. Little,"Kathleen Kinmont,Donald Pleasence,Ellie Cornell",88,9.5
+Poltergeist ,Fantasy|Horror,Tobe Hooper,"Zelda Rubinstein,Heather O'Rourke,Craig T. Nelson",120,9.0
+Are We There Yet? ,Adventure|Comedy|Family|Romance,Brian Levant,"Tracy Morgan,Nia Long,Jay Mohr",95,8.5
+Set It Off ,Action|Crime|Drama|Romance|Thriller,F. Gary Gray,"Jada Pinkett Smith,Vivica A. Fox,Blair Underwood",123,9.0
+The Box ,Drama|Fantasy|Mystery|Thriller,Richard Kelly,"Gillian Jacobs,Frank Langella,Celia Weston",115,10.0
+Larry the Cable Guy: Health Inspector ,Comedy|Romance,Trent Cooper,"Larry the Cable Guy,Thomas F. Wilson,Megyn Price",89,9.5
+Alone with Her ,Crime|Drama|Thriller,Eric Nicholas,"Ana Claudia Talancón,Jordana Spiro,Jonathon Trent",78,8.5
+Parental Guidance ,Comedy|Family,Andy Fickman,"Gedde Watanabe,Bailee Madison,Tom Everett Scott",105,10.0
+Swelter ,Action|Crime|Drama|Thriller,Keith Parmer,"Josh Henderson,Rachel Ann Mullins,Grant Bowler",96,8.5
+Pan's Labyrinth ,Drama|Fantasy|War,Guillermo del Toro,"Maribel Verdú,Ivana Baquero,Sergi López",112,9.5
+Critical Care ,Comedy|Drama,Sidney Lumet,"Anne Bancroft,Kyra Sedgwick,Albert Brooks",107,10.0
+"Ultramarines: A Warhammer 40,000 Movie ",Action|Animation|Fantasy|Horror|Mystery|Sci-Fi|Thriller,Martyn Pick,"Steven Waddington,Sean Pertwee,Donald Sumpter",76,8.5
+It's Kind of a Funny Story ,Comedy|Drama|Romance,Anna Boden,"Jeremy Davies,Zoë Kravitz,Jim Gaffigan",101,10.0
+The True Story of Puss'N Boots ,Adventure|Animation|Comedy,Jérôme Deschamps,"André Wilms,Yolande Moreau,Jérôme Deschamps",80,9.5
+Duets ,Comedy|Drama|Music,Bruce Paltrow,"Marian Seldes,Lochlyn Munro,Huey Lewis",112,8.5
